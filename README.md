@@ -19,17 +19,32 @@
 
 
 
-<h2>📺 Google Certificates </h2>
+## 🛡️ Google Professional Certificates 📎 [Credentials](YOUR_LINK)
 
-* Goolge 
+ 🔵 **Foundations of Cybersecurity** — *Core security principles and career ethics.* 
+ 
+ 🔴 **Connect and Protect: Networks and Network Security** — *TCP/IP, firewalls, and securing traffic.*
+ 
+ 🟡 **Play It Safe: Manage Security Risks** — *Risk assessment and security frameworks (NIST).*
+ 
+ 🔵 **Sound the Alarm: Detection and Response** — *SIEM tools and incident handling.*
+ 
+ 🟢 **Assets, Threats, and Vulnerabilities** — *Identifying and mitigating system weaknesses.*
+ 
+ 🔴 **Tools of the Trade: Linux and SQL**  — *Hands-on command line and database querying.*
+ 
+ 🟠 **Technical Support Fundamentals** — *Mastery of hardware, OS, and troubleshooting.*
 
 
 <h2>🎓 Education </h2>
  
  
  *  B.S. in Cybersecurity Technology | University of Maryland Global Campus
+   
  *  One Year Certificate in CISCO | Texarkana College
+   
  *  One Year Certificate in A+ with Labs | Texarkana College
+    
  *  AWS Academy Clound Architecting | AWS 
 
 
