@@ -28,10 +28,10 @@
 <h2>🎓 Education </h2>
  
  
- *  B.S. in Cybersecurity Technology
- 
-- IT Operations & Security Specialist
-    - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ *  B.S. in Cybersecurity Technology | University of Maryland Global Campus
+ *  One Year Certificate in CISCO | Texarkana College
+ *  One Year Certificate in A+ with Labs | Texarkana College
+ *  AWS Academy Clound Architecting | AWS 
 
 
 
