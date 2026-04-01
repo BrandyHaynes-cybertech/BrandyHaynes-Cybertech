@@ -4,9 +4,9 @@
 
 
 ## ⚡ Technical Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
-* **Mastercard:** Identified and rectified phishing issues to protect organization data.
+* **Mastercard via Forage:** Identified and rectified phishing issues to protect organization data.
 
-* **Deloitte:** Identified data breach patterns and vulnerability risks.
+* **Deloitte via Forage:** Identified data breach patterns and vulnerability risks.
 
 
 
