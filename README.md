@@ -1,8 +1,5 @@
 <h1>Hi, I'm Brandy! <br/><a href="https://www.linkedin.com/in/brandy-haynes-cybertech/">Cybersecurity Professional</a> & <a href="www.linkedin.com/in/brandy-haynes-cybertech"> IT Specialist </a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
 
 
