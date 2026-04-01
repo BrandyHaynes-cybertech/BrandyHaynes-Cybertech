@@ -13,8 +13,8 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## 🖥️ Forage Job Simulations [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
-* **Mastercard:** Identified and rectified phishing issues to protect organization data.  [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
-* **Deloitte:** Identified data breach patterns and vulnerability risks. [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
+* **Mastercard:** Identified and rectified phishing issues to protect organization data. 
+* **Deloitte:** Identified data breach patterns and vulnerability risks. 
 
 
 
