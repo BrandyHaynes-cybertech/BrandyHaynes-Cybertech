@@ -3,18 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## ⚡ Technical Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
+* **Mastercard:** Identified and rectified phishing issues to protect organization data.
 
-## 🖥️ Forage Job Simulations [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
-* **Mastercard:** Identified and rectified phishing issues to protect organization data. 
-* **Deloitte:** Identified data breach patterns and vulnerability risks. 
+* **Deloitte:** Identified data breach patterns and vulnerability risks.
+
+  
 
 
 
