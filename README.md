@@ -1,7 +1,9 @@
 <h1>Hi, I'm Brandy! <br/><a href="https://www.linkedin.com/in/brandy-haynes-cybertech/">Cybersecurity Professional</a> & <a href="www.linkedin.com/in/brandy-haynes-cybertech"><a href="https://www.linkedin.com/in/brandy-haynes-cybertech/"> IT Specialist </a></h1>
 
 ## ⚡ Current Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
-TryHackMe SOC Level 
+
+
+* ** TryHackMe SOC Level 
 
 
 ## ⚡ Technical Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
