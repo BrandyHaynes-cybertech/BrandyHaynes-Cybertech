@@ -3,7 +3,7 @@
 ## ⚡ Current Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
 
 
-* ** TryHackMe SOC Level 
+* TryHackMe SOC Level 1
 
 
 ## ⚡ Technical Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
