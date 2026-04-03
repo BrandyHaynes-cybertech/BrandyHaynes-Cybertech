@@ -23,13 +23,21 @@
 
 ---
 
-### 🛡️ Google Professional Certificates
-* 🔵 **Foundations of Cybersecurity** — *Core security principles and career ethics.*
-* 🔴 **Connect and Protect: Networks** — *TCP/IP, firewalls, and securing traffic.*
-* 🟡 **Play It Safe: Manage Security Risks** — *Risk assessment and NIST frameworks.*
-* 🔵 **Sound the Alarm: Detection & Response** — *SIEM tools and incident handling.*
-* 🟢 **Assets, Threats, & Vulnerabilities** — *Identifying system weaknesses.*
-* 🔴 **Tools of the Trade: Linux & SQL** — *Command line and database querying.*
+## 🛡️ Google Professional Certificates
+
+| | Course | Focus |
+| :---: | :--- | :--- |
+| 🔵 | **Foundations of Cybersecurity** | Core security principles and career ethics. |
+| 🔴 | **Connect and Protect: Networks** | TCP/IP, firewalls, and securing traffic. |
+| 🟡 | **Play It Safe: Risk Management** | Risk assessment and NIST frameworks. |
+| 🔵 | **Sound the Alarm: Detection** | SIEM tools and incident handling. |
+| 🟢 | **Assets, Threats, & Vulnerabilities** | Identifying system weaknesses. |
+| 🔴 | **Tools of the Trade: Linux & SQL** | Hands-on command line and database querying. |
+| 🟠 | **Technical Support Fundamentals** | Hardware, OS, and troubleshooting. |
+
+<br>
+
+[![Verify Credentials](https://img.shields.io/badge/Verify%20My%20Credentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_LINK_HERE)
 
 ---
 
@@ -41,10 +49,15 @@
 
 ---
 
-### 🤳 Connect with me
-[<img align="left" alt="Brandy Haynes | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandy-haynes-cybertech/)
-<br />
 
+### 🏠 Home Lab & Infrastructure
+* **Network Management:** Configured and secured a multi-node eero mesh network with Arlo integration.
+* **Systems Maintenance:** Ongoing hands-on troubleshooting of hardware and OS environments.
+
+
+
+### 🤳 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandy-haynes-cybertech/)
 
 
 
