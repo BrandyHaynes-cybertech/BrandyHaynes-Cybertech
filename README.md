@@ -41,7 +41,7 @@
 
 ---
 
-### 🎓 Education & Credentials
+<h2>  🎓 Education & Credentials 🎓<h2>
 * **B.S. in Cybersecurity Technology** | University of Maryland Global Campus
 * **One Year Certificate in CISCO** | Texarkana College
 * **One Year Certificate in A+ with Labs** | Texarkana College
@@ -50,9 +50,19 @@
 ---
 
 
-### 🏠 Home Lab & Infrastructure
-* **Network Management:** Configured and secured a multi-node eero mesh network with Arlo integration.
-* **Systems Maintenance:** Ongoing hands-on troubleshooting of hardware and OS environments.
+<h2> <details>
+  <summary><b>🏠 View Home Lab & Infrastructure Details</b></summary>
+  <br/>
+  <ul>
+    <li><b>Network Management:</b> Configured and secured a multi-node eero mesh network with Arlo integration.</li>
+    <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
+  </ul>
+</details><h2>
+
+
+
+
+
 
 
 
