@@ -25,24 +25,26 @@
 
 
 ---
+<details>
+  <summary><h2>🛡️ Google Specialized Training & Technical Certifications</h2></summary>
+  <br />
+  <blockquote>
+    <h3>🔍 Google Cybersecurity Series (Verified Coursework)</h3>
+    <ul>
+      <li><b>Security Operations:</b> Detection & Response, SIEM (Splunk/Chronicle), Incident Response.</li>
+      <li><b>Network Defense:</b> Connect & Protect (TCP/IP, Firewalls, Network Security).</li>
+      <li><b>Risk Management:</b> Play It Safe (NIST Framework, Threat Modeling).</li>
+      <li><b>Technical Skills:</b> Linux Command Line and SQL (Tools of the Trade).</li>
+    </ul>
+    <br />
+    <h3>🛠️ Google IT Support Series</h3>
+    <ul>
+      <li><b>Technical Support Fundamentals:</b> System Troubleshooting & Customer Success.</li>
+    </ul>
+  </blockquote>
+</details>
 
-## 🛡️ Google Professional Certificates
-
-| | Course | Focus |
-| :---: | :--- | :--- |
-| 🔵 | **Foundations of Cybersecurity** | Core security principles and career ethics. |
-| 🔴 | **Connect and Protect: Networks** | TCP/IP, firewalls, and securing traffic. |
-| 🟡 | **Play It Safe: Risk Management** | Risk assessment and NIST frameworks. |
-| 🔵 | **Sound the Alarm: Detection** | SIEM tools and incident handling. |
-| 🟢 | **Assets, Threats, & Vulnerabilities** | Identifying system weaknesses. |
-| 🔴 | **Tools of the Trade: Linux & SQL** | Hands-on command line and database querying. |
-| 🟠 | **Technical Support Fundamentals** | Hardware, OS, and troubleshooting. |
-
-<br>
-
-[![Verify Credentials](https://img.shields.io/badge/Verify%20My%20Credentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_LINK_HERE)
-
----
+<hr />
 
 <h2>🎓 Education & Credentials<h2>
 
