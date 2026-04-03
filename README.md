@@ -2,9 +2,7 @@
 
 ## ⚡ Current Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
 
-
-* TryHackMe SOC Level 1
-
+* [TryHackMe SOC Level 1](https://github.com/BrandyHaynes-cybertech/TryHackMe-Soc-Level-1)
 
 ## ⚡ Technical Projects & Simulations⚡ [📎...](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations)
 * **Mastercard via Forage:** Identified and rectified phishing issues to protect organization data.
