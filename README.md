@@ -14,6 +14,15 @@
 
 ---
 
+### 🛠️ Technical Stack
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
+![Network](https://img.shields.io/badge/Network-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+...
 
 ### ⚡ Technical Projects & Simulations
 
