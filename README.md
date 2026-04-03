@@ -14,12 +14,15 @@
 
 ---
 
+
 ### ⚡ Technical Projects & Simulations
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **TryHackMe SOC Level 1** | Comprehensive labs on incident response and log analysis. | [View Repo](https://github.com/BrandyHaynes-cybertech/TryHackMe-Soc-Level-1) |
-| **Mastercard Simulation** | Identified and rectified phishing issues to protect data. | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
-| **Deloitte Simulation** | Analyzed data breach patterns and vulnerability risks. | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
+
+| Project | Description | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **TryHackMe SOC Level 1** | Comprehensive labs on incident response and log analysis. | ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/TryHackMe-Soc-Level-1) |
+| **Mastercard Simulation** | Identified and rectified phishing issues to protect data. | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
+| **Deloitte Simulation** | Analyzed data breach patterns and vulnerability risks. | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
+
 
 ---
 
@@ -41,23 +44,27 @@
 
 ---
 
-<h2>  🎓 Education & Credentials 🎓<h2>
-* **B.S. in Cybersecurity Technology** | University of Maryland Global Campus
-* **One Year Certificate in CISCO** | Texarkana College
-* **One Year Certificate in A+ with Labs** | Texarkana College
-* **AWS Academy Cloud Architecting** | AWS
+<h2>🎓 Education & Credentials<h2>
+
+* 🎓 **B.S. in Cybersecurity Technology** | University of Maryland Global Campus
+* 📜 **One Year Certificate in CISCO** | Texarkana College
+* 📜 **One Year Certificate in A+ with Labs** | Texarkana College
+* ☁️ **AWS Academy Cloud Architecting** | AWS
 
 ---
 
+## 🏠 Home Lab & Infrastructure
 
-<h2> <details>
-  <summary><b>🏠 View Home Lab & Infrastructure Details</b></summary>
-  <br/>
+<details>
+  <summary>View Home Lab & Infrastructure Details</summary>
+  <br />
   <ul>
     <li><b>Network Management:</b> Configured and secured a multi-node eero mesh network with Arlo integration.</li>
+    <br />
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
-</details><h2>
+</details>
+
 
 
 
@@ -68,26 +75,6 @@
 
 ### 🤳 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandy-haynes-cybertech/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
