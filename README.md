@@ -53,6 +53,7 @@
 * 📜 **One Year Certificate in A+ with Labs** | Texarkana College
 * ☁️ **AWS Academy Cloud Architecting** | AWS
 
+
 ---
 
 ## 🏠 Home Lab & Infrastructure
