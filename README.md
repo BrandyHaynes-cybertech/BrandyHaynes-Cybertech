@@ -85,6 +85,124 @@
 
 
 ---
+
+
+
+<details>
+<summary><h2>🛠️ TryHackMe: Technical Labs & Hands-On Skill Rooms</h2></summary>
+<br />
+
+#### 🛡️ Cyber Defense & SOC Operations
+* **SOC Role in Blue Team:** Understanding the workflow of a Security Operations Center.
+* **Pre-Security Path:** Completed foundational training in networking, Linux, and Windows.
+* **Defensive Security:** Introduction to incident response and digital forensics.
+* **Cyber Kill Chain:** Analyzing the stages of a cyberattack to improve detection.
+
+#### 🐧 Systems & Infrastructure
+* **Linux Fundamentals (1, 2, 3):** Mastered terminal navigation, permissions, and service management.
+* **Windows Fundamentals (1, 2, 3):** Deep dive into the Windows OS, registry, and UAC.
+* **Active Directory Basics:** Understanding domain controllers and network authentication.
+* **Intro to Virtualization:** Configuration and management of virtual environments.
+
+#### 🌐 Network Security & Traffic Analysis
+* **Wireshark & Tcpdump:** Hands-on packet capture and protocol analysis.
+* **Nmap (The Basics & Live Room):** Network scanning, port discovery, and service fingerprinting.
+* **Networking Essentials:** Mastered DNS, SMB, Telnet, and FTP secure configurations.
+* **DNS in Detail:** In-depth study of the Domain Name System and its vulnerabilities.
+
+#### ⚔️ Vulnerability Research & Exploitation
+* **Blue (EternalBlue):** Successfully exploited MS17-010 to understand critical OS flaws.
+* **Ice (CVE-2014-4113):** Executed privilege escalation via memory corruption vulnerabilities.
+* **Kenobi:** Exploited Samba for system enumeration and file system navigation.
+* **Metasploit Suite:** Comprehensive use of the framework for exploitation and post-exploitation.
+* **Vulnerability Research:** Identifying and analyzing CVEs for patch management.
+
+#### 🔍 Security Tooling & Cryptography
+* **Burp Suite:** Foundational web proxy analysis for security testing.
+* **John the Ripper:** Password cracking and cryptographic hash analysis.
+* **Hashing Basics:** Understanding data integrity and one-way encryption.
+* **Public Key Cryptography:** Implementing RSA and secure key exchange principles.
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left" bgcolor="#f8f9fa">🛠️ TryHackMe: Technical Labs & Skill Rooms</th>
+  </tr>
+  <tr>
+    <td width="30%"><b>🛡️ Cyber Defense</b></td>
+    <td>SOC Role • Blue Team Operations • Cyber Kill Chain • Incident Response</td>
+  </tr>
+  <tr>
+    <td><b>🐧 Systems</b></td>
+    <td>Linux Fundamentals (1-3) • Windows (1-3) • Active Directory • PowerShell</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Networking</b></td>
+    <td>Wireshark • Nmap • Tcpdump • DNS Detail • Networking Essentials</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ Vulnerability</b></td>
+    <td>Blue (EternalBlue) • Ice • Kenobi • Metasploit • Vulnerability Research</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
   <summary><h2>🛡️ Google Specialized Training & Technical Certifications</h2></summary>
   <br />
