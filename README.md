@@ -15,15 +15,13 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2" align="center" bgcolor="#f8f9fa">
-      <br />
-      <h2 style="border-bottom: none;">⚡ Professional Focus & Mission</h2>
-      <br />
+    <th colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=006064&height=50&section=header&text=⚡%20Professional%20Focus⚡%20&%20Mission%20⚡&fontSize=30&fontColor=fffffffF" width="100%" />
     </th>
   </tr>
   <tr>
     <td width="25%" align="center"><b>🛡️ Mission</b></td>
-    <td><i>I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems.</i></td>
+    <td>I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems.</td>
   </tr>
   <tr>
     <td align="center"><b>🚀 Current Role</b></td>
@@ -65,6 +63,9 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
 
@@ -343,6 +344,27 @@
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
