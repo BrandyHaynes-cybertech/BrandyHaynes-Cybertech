@@ -1,10 +1,78 @@
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=110&pause=1000&color=006666&center=true&vCenter=true&width=900&height=150&lines=Brandy+Haynes" alt="Brandy Haynes Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=130&pause=1000&color=006666&background=D3D3D3&center=true&vCenter=true&width=1000&height=200&lines=Brandy+Haynes" alt="Brandy Haynes Signature" />
   <br />
   <img src="https://img.shields.io/badge/IT_Professional-Cybersecurity_Analyst-006666?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=130&pause=1000&color=006666&background=24292e&center=true&vCenter=true&width=1000&height=200&lines=Brandy+Haynes" alt="Brandy Haynes Signature" />
+  <br />
+  <img src="https://img.shields.io/badge/IT_Professional-Cybersecurity_Analyst-006666?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
