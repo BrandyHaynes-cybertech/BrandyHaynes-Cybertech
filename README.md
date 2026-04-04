@@ -346,15 +346,6 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Brandy%20Haynes&fontSize=70&fontColor=ffffff" />
-</p>
-
-
-
-
-
-
 
 
 
