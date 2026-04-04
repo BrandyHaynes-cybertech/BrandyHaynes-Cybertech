@@ -65,31 +65,115 @@
 
 ---
 
-### 🛠️ Technical Stack
+<h2>🛠️ Technical Stack<h2>
+  
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+#
 
 
-...
 
-### ⚡ Technical Projects & Simulations
+<table width="100%">
+  <tr>
+    <th colspan="4" align="center" bgcolor="#f8f9fa">
+      <h3>⚡ Technical Projects & Simulations</h3>
+    </th>
+  </tr>
+  
+  <tr>
+    <th width="20%">Project</th>
+    <th width="45%">Description</th>
+    <th width="20%">Status</th>
+    <th width="15%">Link</th>
+  </tr>
+  
+  <tr>
+    <td><b>TryHackMe SOC L1</b></td>
+    <td>Incident response & SIEM log analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square" /></td>
+    <td align="center"><a href="https://tryhackme.com/p/BrandyHaynes">View</a></td>
+  </tr>
+  <tr>
+    <td><b>Mastercard</b></td>
+    <td>Phishing mitigation & data protection</td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" /></td>
+    <td align="center"><a href="YOUR_LINK_HERE">View</a></td>
+  </tr>
+  <tr>
+    <td><b>Deloitte</b></td>
+    <td>Data breach analysis & vulnerability risks</td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" /></td>
+    <td align="center"><a href="YOUR_LINK_HERE">View</a></td>
+  </tr>
+</table>
 
-| Project | Description | Status | Link |
-| :--- | :--- | :--- | :--- |
-| **TryHackMe SOC Level 1** | Comprehensive labs on incident response and log analysis. | ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/TryHackMe-Soc-Level-1) |
-| **Mastercard Simulation** | Identified and rectified phishing issues to protect data. | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
-| **Deloitte Simulation** | Analyzed data breach patterns and vulnerability risks. | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [View Repo](https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations) |
 
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+
+
+<table width="100%">
+<tr>
+    <th colspan="4" align="center" bgcolor="#f8f9fa">
+      <br />
+      <h2 style="border-bottom: none;">🛠️ TryHackMe: Technical Labs & Skill Rooms</h2>
+      <br />
+    </th>
+  </tr>
+    <td width="30%"><b>🛡️ Cyber Defense</b></td>
+    <td>SOC Role • Blue Team Operations • Cyber Kill Chain • Incident Response</td>
+  </tr>
+  <tr>
+    <td><b>🐧 Systems</b></td>
+    <td>Linux Fundamentals (1-3) • Windows (1-3) • Active Directory • PowerShell</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Networking</b></td>
+    <td>Wireshark • Nmap • Tcpdump • DNS Detail • Networking Essentials</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ Vulnerability</b></td>
+    <td>Blue (EternalBlue) • Ice • Kenobi • Metasploit • Vulnerability Research</td>
+  </tr>
+</table>
 
 
 
 <details>
-<summary><h2>🛠️ TryHackMe: Technical Labs & Hands-On Skill Rooms</h2></summary>
+<summary><h2>🛠️ TryHackMe: Technical Labs & Hands-On Skill Rooms Ext. </h2></summary>
 <br />
 
 #### 🛡️ Cyber Defense & SOC Operations
@@ -124,48 +208,6 @@
 * **Public Key Cryptography:** Implementing RSA and secure key exchange principles.
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table width="100%">
-  <tr>
-    <th colspan="2" align="left" bgcolor="#f8f9fa">🛠️ TryHackMe: Technical Labs & Skill Rooms</th>
-  </tr>
-  <tr>
-    <td width="30%"><b>🛡️ Cyber Defense</b></td>
-    <td>SOC Role • Blue Team Operations • Cyber Kill Chain • Incident Response</td>
-  </tr>
-  <tr>
-    <td><b>🐧 Systems</b></td>
-    <td>Linux Fundamentals (1-3) • Windows (1-3) • Active Directory • PowerShell</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Networking</b></td>
-    <td>Wireshark • Nmap • Tcpdump • DNS Detail • Networking Essentials</td>
-  </tr>
-  <tr>
-    <td><b>⚔️ Vulnerability</b></td>
-    <td>Blue (EternalBlue) • Ice • Kenobi • Metasploit • Vulnerability Research</td>
-  </tr>
-</table>
-
-
 
 
 
@@ -245,9 +287,6 @@
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
 </details>
-
-
-
 
 
 
