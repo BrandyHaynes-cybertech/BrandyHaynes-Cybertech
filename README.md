@@ -12,24 +12,98 @@
 
 
 
+<br />
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="center" bgcolor="#f8f9fa">
+      <br />
+      <h2 style="border-bottom: none;">⚡ Professional Focus & Mission</h2>
+      <br />
+    </th>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>🛡️ Mission</b></td>
+    <td><i>"I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems."</i></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 Current Role</b></td>
+    <td><b>Cybersecurity Analyst Apprentice</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎓 Education</b></td>
+    <td><b>B.S. Cybersecurity Technology</b> | UMGC <br /> <b>Cisco & A+ Certifications</b> | Texarkana College</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎯 Core Focus</b></td>
+    <td>SOC Operations • Threat Hunting • Network Defense • Incident Response</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔗 Connect</b></td>
+    <td>
+      <a href="https://www.linkedin.com/in/brandy-haynes-10493a19b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+      <a href="https://tryhackme.com/p/B.Haynes"><img src="https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" height="25" /></a>
+      <a href="mailto:brandy.w.haynes.cybertech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+    </td>
+  </tr>
+</table>
 
 
-
-
-
-
-
-
-  <h3>B.S. Cybersecurity Technology</h3>
-  <p>🛡️ <i>Focused on Threat Detection, Incident Response, and Network Defense</i> 🛡️</p>
   
-  <p>
-    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="YOUR_TRYHACKME_URL"><img src="https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-  <br />
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -304,23 +378,6 @@
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
