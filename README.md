@@ -76,6 +76,12 @@
 
 
 
+
+
+
+
+
+
 ---
 
 <h2>🛠️ Technical Stack<h2>
@@ -120,41 +126,11 @@
 
 
 
+</table>
 
-
+<br /><br />
 
 <table width="100%">
-  <tr>
-    <th colspan="3" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=50&section=header&text=⚡%20TryHackMe:%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=26&fontColor=ffffff" width="100%" />
-    </th>
-  </tr>
-  <tr>
-    <th width="10%" align="center"><b>Icon</b></th>
-    <th width="20%" align="center"><b>Category</b></th>
-    <th width="70%" align="center"><b>Mastered Skills & Rooms</b></th>
-  </tr>
-  <tr>
-    <td align="center"><font size="5">🛡️</font></td>
-    <td align="center"><b>Cyber Defense</b></td>
-    <td><code>SOC Role</code> <code>Blue Team Ops</code> <code>Cyber Kill Chain</code> <code>Incident Response</code></td>
-  </tr>
-  <tr>
-    <td align="center"><font size="5">🐧</font></td>
-    <td align="center"><b>Systems</b></td>
-    <td><code>Linux (1-3)</code> <code>Windows (1-3)</code> <code>Active Directory</code> <code>PowerShell</code></td>
-  </tr>
-  <tr>
-    <td align="center"><font size="5">🌐</font></td>
-    <td align="center"><b>Networking</b></td>
-    <td><code>Wireshark</code> <code>Nmap</code> <code>Tcpdump</code> <code>DNS Detail</code> <code>Net Essentials</code></td>
-  </tr>
-  <tr>
-    <td align="center"><font size="5">⚔️</font></td>
-    <td align="center"><b>Vulnerability</b></td>
-    <td><code>Blue (EternalBlue)</code> <code>Ice</code> <code>Kenobi</code> <code>Metasploit</code> <code>Vuln Research</code></td>
-  </tr>
-</table>
 
 
 
@@ -165,38 +141,159 @@
 <table width="100%">
   <tr>
     <th colspan="2" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=50&section=header&text=⚡%20TryHackMe:%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=26&fontColor=ffffff" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=60&section=header&text=⚡%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=30&fontColor=ffffff" width="100%" />
     </th>
   </tr>
+  
   <tr>
-    <td width="25%" align="center"><b>🛡️ Defensive Ops</b></td>
-    <td>
-      <b>Methodology:</b> Cyber Kill Chain, Incident Response<br />
-      <b>Operations:</b> SOC Role, Blue Team Ops
+    <td width="20%" align="center">
+      <br /><font size="7">🛡️</font><br /><b>Cyber Defense</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Security Operations & Incident Response</b></font><br /><br />
+      <img src="https://img.shields.io/badge/SOC_Role-2C3E50?style=for-the-badge&logo=securityscorecard&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Blue_Team-2C3E50?style=for-the-badge&logo=guardian&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Incident_Response-2C3E50?style=for-the-badge&logo=sensu&logoColor=white" height="35" />
     </td>
   </tr>
+
   <tr>
-    <td align="center"><b>🐧 Administration</b></td>
-    <td>
-      <b>OS:</b> Linux Fundamentals, Windows Administration<br />
-      <b>Scripting:</b> PowerShell, Active Directory
+    <td align="center">
+      <br /><font size="7">🐧</font><br /><b>Systems</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Enterprise OS Administration & Active Directory</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="35" />
     </td>
   </tr>
+
   <tr>
-    <td align="center"><b>🌐 Traffic Analysis</b></td>
-    <td>
-      <b>Tools:</b> Wireshark, Nmap, Tcpdump<br />
-      <b>Theory:</b> DNS Detail, Networking Essentials
+    <td align="center">
+      <br /><font size="7">🌐</font><br /><b>Networking</b>
+    </td>
+    <td align="left">
+      <font size="4"><b>Packet Analysis & Network Traffic Monitoring</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Nmap-4DABCF?style=for-the-badge&logo=nmap&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Tcpdump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />
     </td>
   </tr>
+
   <tr>
-    <td align="center"><b>⚔️ Exploit Research</b></td>
-    <td>
-      <b>Machines:</b> Blue, Ice, Kenobi<br />
-      <b>Frameworks:</b> Metasploit, Vulnerability Research
+    <td align="center">
+      <br /><font size="7">⚔️</font><br /><b>Vulnerability</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Ethical Hacking & Vulnerability Research</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Metasploit-BF0000?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Exploitation-990000?style=for-the-badge&logo=kali-linux&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Vuln_Research-770000?style=for-the-badge&logo=target&logoColor=white" height="35" />
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
