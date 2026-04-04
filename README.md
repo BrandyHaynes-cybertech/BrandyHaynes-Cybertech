@@ -1,16 +1,44 @@
 # Hi, I'm Brandy! 👋
 ## Cybersecurity Professional & IT Operations Specialist
 
-| 🛡️ Professional Focus | 🛠️ Tech Stack |
-| :--- | :--- |
-| **Current:** Cybersecurity Analyst Apprentice | ![Linux](https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| **Education:** B.S. Cybersecurity Technology | ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Focus:** Threat Detection & SOC Workflows | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-
 ---
 
-### 💡 The "SOC Mindset"
-> I bring a unique background in high-pressure operational environments to the world of cybersecurity. My focus is on **threat detection, log analysis, and infrastructure security**, combining academic theory with hands-on "engineering" to solve complex technical problems and protect organizational data.
+
+
+<table>
+  <tr>
+    <th colspan="2" align="center">
+      <h2>⚡ Professional Focus & Mission</h2>
+    </th>
+  </tr>
+  <tr>
+    <td width="25%"><b>🛡️ Mission</b></td>
+    <td>I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems.</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Current Role</b></td>
+    <td><b>Cybersecurity Analyst Apprentice</b></td>
+  </tr>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td><b>B.S. Cybersecurity Technology</b></td>
+  </tr>
+  <tr>
+    <td><b>🎯 Core Focus</b></td>
+    <td><b>SOC Operations, Threat Hunting, & Network Defense</b></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tech Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Linux-orange?logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Splunk-black?logo=splunk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
