@@ -76,50 +76,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <h2>🛠️ Technical Stack<h2>
@@ -132,39 +88,30 @@
 #
 
 
-
 <table width="100%">
   <tr>
-    <th colspan="4" align="center" bgcolor="#f8f9fa">
-      <h3>⚡ Technical Projects & Simulations</h3>
+    <th colspan="4" align="center">
+     <img src="https://capsule-render.vercel.app/api?type=rect&color=069494&height=50&section=header&text=⚡%20Technical%20Projects%20%20Simulations%20⚡&fontSize=30&fontColor=ffffff" width="100%" />
     </th>
   </tr>
-  
-  <tr>
-    <th width="20%">Project</th>
-    <th width="45%">Description</th>
-    <th width="20%">Status</th>
-    <th width="15%">Link</th>
-  </tr>
-  
-  <tr>
-    <td><b>TryHackMe SOC L1</b></td>
-    <td>Incident response & SIEM log analysis</td>
-    <td align="center"><img src="https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square" /></td>
-    <td align="center"><a href="https://tryhackme.com/p/BrandyHaynes">View</a></td>
-  </tr>
-  <tr>
-    <td><b>Mastercard</b></td>
-    <td>Phishing mitigation & data protection</td>
-    <td align="center"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" /></td>
-    <td align="center"><a href="YOUR_LINK_HERE">View</a></td>
-  </tr>
-  <tr>
-    <td><b>Deloitte</b></td>
-    <td>Data breach analysis & vulnerability risks</td>
-    <td align="center"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" /></td>
-    <td align="center"><a href="YOUR_LINK_HERE">View</a></td>
-  </tr>
+<tr>
+<td align="center"><b>TryHackMe SOC L1</b></td>
+<td>Incident response & SIEM log analysis</td>
+<td align="center"><img src="https://img.shields.io/badge/Status-In--Progress-yellow" alt="In-Progress" /></td>
+<td align="center"><a href="https://tryhackme.com/p/B.Haynes">View</a></td>
+</tr>
+<tr>
+<td align="center"><b>Mastercard</b></td>
+<td>Phishing mitigation & data protection</td>
+<td align="center"><img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed" /></td>
+<td align="center"><a href="#">View</a></td>
+</tr>
+<tr>
+<td align="center"><b>Deloitte</b></td>
+<td>Data breach analysis & vulnerability risks</td>
+<td align="center"><img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed" /></td>
+<td align="center"><a href="#">View</a></td>
+</tr>
 </table>
 
 
@@ -175,6 +122,81 @@
 
 
 
+
+<table width="100%">
+  <tr>
+    <th colspan="3" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=50&section=header&text=⚡%20TryHackMe:%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=26&fontColor=ffffff" width="100%" />
+    </th>
+  </tr>
+  <tr>
+    <th width="10%" align="center"><b>Icon</b></th>
+    <th width="20%" align="center"><b>Category</b></th>
+    <th width="70%" align="center"><b>Mastered Skills & Rooms</b></th>
+  </tr>
+  <tr>
+    <td align="center"><font size="5">🛡️</font></td>
+    <td align="center"><b>Cyber Defense</b></td>
+    <td><code>SOC Role</code> <code>Blue Team Ops</code> <code>Cyber Kill Chain</code> <code>Incident Response</code></td>
+  </tr>
+  <tr>
+    <td align="center"><font size="5">🐧</font></td>
+    <td align="center"><b>Systems</b></td>
+    <td><code>Linux (1-3)</code> <code>Windows (1-3)</code> <code>Active Directory</code> <code>PowerShell</code></td>
+  </tr>
+  <tr>
+    <td align="center"><font size="5">🌐</font></td>
+    <td align="center"><b>Networking</b></td>
+    <td><code>Wireshark</code> <code>Nmap</code> <code>Tcpdump</code> <code>DNS Detail</code> <code>Net Essentials</code></td>
+  </tr>
+  <tr>
+    <td align="center"><font size="5">⚔️</font></td>
+    <td align="center"><b>Vulnerability</b></td>
+    <td><code>Blue (EternalBlue)</code> <code>Ice</code> <code>Kenobi</code> <code>Metasploit</code> <code>Vuln Research</code></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=50&section=header&text=⚡%20TryHackMe:%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=26&fontColor=ffffff" width="100%" />
+    </th>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>🛡️ Defensive Ops</b></td>
+    <td>
+      <b>Methodology:</b> Cyber Kill Chain, Incident Response<br />
+      <b>Operations:</b> SOC Role, Blue Team Ops
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐧 Administration</b></td>
+    <td>
+      <b>OS:</b> Linux Fundamentals, Windows Administration<br />
+      <b>Scripting:</b> PowerShell, Active Directory
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Traffic Analysis</b></td>
+    <td>
+      <b>Tools:</b> Wireshark, Nmap, Tcpdump<br />
+      <b>Theory:</b> DNS Detail, Networking Essentials
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚔️ Exploit Research</b></td>
+    <td>
+      <b>Machines:</b> Blue, Ice, Kenobi<br />
+      <b>Frameworks:</b> Metasploit, Vulnerability Research
+    </td>
+  </tr>
+</table>
 
 
 
@@ -201,31 +223,6 @@
 
 --
 
-
-<table width="100%">
-<tr>
-    <th colspan="4" align="center" bgcolor="#f8f9fa">
-      <br />
-      <h2 style="border-bottom: none;">🛠️ TryHackMe: Technical Labs & Skill Rooms</h2>
-      <br />
-    </th>
-  </tr>
-    <td width="30%"><b>🛡️ Cyber Defense</b></td>
-    <td>SOC Role • Blue Team Operations • Cyber Kill Chain • Incident Response</td>
-  </tr>
-  <tr>
-    <td><b>🐧 Systems</b></td>
-    <td>Linux Fundamentals (1-3) • Windows (1-3) • Active Directory • PowerShell</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Networking</b></td>
-    <td>Wireshark • Nmap • Tcpdump • DNS Detail • Networking Essentials</td>
-  </tr>
-  <tr>
-    <td><b>⚔️ Vulnerability</b></td>
-    <td>Blue (EternalBlue) • Ice • Kenobi • Metasploit • Vulnerability Research</td>
-  </tr>
-</table>
 
 
 
@@ -265,15 +262,6 @@
 * **Public Key Cryptography:** Implementing RSA and secure key exchange principles.
 
 </details>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -344,6 +332,53 @@
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
