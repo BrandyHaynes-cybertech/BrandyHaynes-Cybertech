@@ -1,6 +1,22 @@
-# Hi, I'm Brandy! 👋
-## Cybersecurity Professional & IT Operations Specialist
-
+<div align="center">
+  <br />
+  <h1>
+    <p align="center">
+      <font size="20"><b>Brandy Haynes</b></font>
+    </p>
+  </h1>
+  <hr width="50%" />
+  <h2>IT Operations & Cybersecurity Specialist</h2>
+  <h3>B.S. Cybersecurity Technology</h3>
+  <p>🛡️ <i>Focused on Threat Detection, Incident Response, and Network Defense</i> 🛡️</p>
+  
+  <p>
+    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="YOUR_TRYHACKME_URL"><img src="https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  <br />
+</div>
 ---
 
 
@@ -118,14 +134,6 @@
 
 
 
-
-
-
-
-
-
-### 🤳 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandy-haynes-cybertech/)
 
 
 
