@@ -77,19 +77,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   <h2>IT Operations & Cybersecurity Specialist</h2>
   <h3>B.S. Cybersecurity Technology</h3>
   <p>🛡️ <i>Focused on Threat Detection, Incident Response, and Network Defense</i> 🛡️</p>
