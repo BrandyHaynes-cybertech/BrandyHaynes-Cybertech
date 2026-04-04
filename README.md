@@ -12,7 +12,6 @@
 
 
 
-<br />
 
 <table width="100%">
   <tr>
@@ -24,101 +23,7 @@
   </tr>
   <tr>
     <td width="25%" align="center"><b>🛡️ Mission</b></td>
-    <td><i>"I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems."</i></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🚀 Current Role</b></td>
-    <td><b>Cybersecurity Analyst Apprentice</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎓 Education</b></td>
-    <td><b>B.S. Cybersecurity Technology</b> | UMGC <br /> <b>Cisco & A+ Certifications</b> | Texarkana College</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎯 Core Focus</b></td>
-    <td>SOC Operations • Threat Hunting • Network Defense • Incident Response</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔗 Connect</b></td>
-    <td>
-      <a href="https://www.linkedin.com/in/brandy-haynes-10493a19b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-      <a href="https://tryhackme.com/p/B.Haynes"><img src="https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" height="25" /></a>
-      <a href="mailto:brandy.w.haynes.cybertech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-    </td>
-  </tr>
-</table>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table width="100%">
-  <tr>
-    <th colspan="2" align="center" bgcolor="#f8f9fa">
-      <br />
-      <h2 style="border-bottom: none;">⚡ Professional Focus & Mission</h2>
-      <br />
-    </th>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>🛡️ Mission</b></td>
-    <td><i>"I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems."</i></td>
+    <td><i>I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems.</i></td>
   </tr>
   <tr>
     <td align="center"><b>🚀 Current Role</b></td>
@@ -135,23 +40,83 @@
   <tr>
     <td align="center"><b>🛠️ Technical Stack</b></td>
     <td>
-      <b>SIEM & Logging:</b> <br />
-      <img src="https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Log%20Analysis-gray?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Threat%20Triage-red?style=flat-square" />
-      <br /><b>Networking & Traffic:</b> <br />
-      <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Nmap-4FAD5B?style=flat-square&logo=nmap&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/-eero%20Mesh-blue?style=flat-square" />
-      <br /><b>Systems & Cloud:</b> <br />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/-AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <b>SIEM & Logging:</b><br />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="20" /> 
+      <img src="https://img.shields.io/badge/Log_Analysis-333333?style=for-the-badge" height="20" /> 
+      <img src="https://img.shields.io/badge/Threat_Triage-E97451?style=for-the-badge" height="20" /><br />
+      <b>Networking & Traffic:</b><br />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="20" /> 
+      <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge" height="20" /> 
+      <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="20" /> 
+      <img src="https://img.shields.io/badge/eero_Mesh-3B5998?style=for-the-badge" height="20" /><br />
+      <b>Systems & Cloud:</b><br />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20" /> 
+      <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20" /> 
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20" /> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔗 Connect</b></td>
+    <td>
+      <a href="https://www.linkedin.com/in/brandy-haynes-10493a19b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+      <a href="https://tryhackme.com/p/B.Haynes"><img src="https://img.shields.io/badge/TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" height="25" /></a>
+      <a href="mailto:brandy.w.haynes.cybertech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -378,6 +343,36 @@
     <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
   </ul>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
