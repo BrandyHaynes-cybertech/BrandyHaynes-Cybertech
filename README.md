@@ -1,11 +1,7 @@
 <div align="center">
   <br />
-  <h1>
-    <p align="center">
-      <font size="20"><b>Brandy Haynes</b></font>
-    </p>
-  </h1>
-  <hr width="50%" />
+  <h1><font size="7"><b>BRANDY HAYNES</b></font></h1>
+  <hr width="60%" />
   <h2>IT Operations & Cybersecurity Specialist</h2>
   <h3>B.S. Cybersecurity Technology</h3>
   <p>🛡️ <i>Focused on Threat Detection, Incident Response, and Network Defense</i> 🛡️</p>
