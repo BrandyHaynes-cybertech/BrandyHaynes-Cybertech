@@ -1,9 +1,12 @@
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=130&pause=1000&color=20B2AA&background=24292e&center=true&vCenter=true&width=1000&height=220&lines=Brandy+Haynes" alt="Brandy Haynes Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=130&pause=1000&color=20B2AA&background=24292e&center=true&vCenter=true&width=1000&height=200&lines=Brandy+Haynes" alt="Brandy Haynes Signature" />
   <br />
-  <img src="https://img.shields.io/badge/IT_Professional-Cybersecurity_Analyst-20B2AA?style=for-the-badge&logo=github&logoColor=24292e" />
+  <img src="https://img.shields.io/badge/IT_PROFESSIONAL-24292e?style=for-the-badge&logo=github&logoColor=20B2AA" height="55" />
+  <img src="https://img.shields.io/badge/B.S._CYBERSECURITY_TECH-20B2AA?style=for-the-badge&logo=googlescholar&logoColor=24292e" height="55" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY_ANALYST-24292e?style=for-the-badge&logo=securityscorecard&logoColor=20B2AA" height="55" />
 </p>
 
 
@@ -17,43 +20,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <h2>IT Operations & Cybersecurity Specialist</h2>
   <h3>B.S. Cybersecurity Technology</h3>
   <p>🛡️ <i>Focused on Threat Detection, Incident Response, and Network Defense</i> 🛡️</p>
   
