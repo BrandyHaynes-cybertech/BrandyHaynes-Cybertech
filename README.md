@@ -10,8 +10,13 @@
 </p>
 
 
+<br>
 
-...
+
+
+
+
+
 
 
 <table width="100%" border="2" bordercolor="#8E44AD" cellspacing="0" cellpadding="0">
@@ -90,7 +95,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-...
+<br>
+
+
+
+
+
 
 <table width="100%">
   <tr>
@@ -102,14 +112,34 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
     <td width="25%" align="center"><b>🛡️ Mission</b></td>
     <td>I bridge the gap between high-pressure operational environments and cybersecurity infrastructure. My focus is on threat detection, log analysis, and engineering solutions to solve complex technical problems.</td>
   </tr>
-  <tr>
-    <td align="center"><b>🚀 Current Role</b></td>
-    <td><b>Cybersecurity Analyst Apprentice</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎓 Education</b></td>
-    <td><b>B.S. Cybersecurity Technology</b> | UMGC <br /> <b>Cisco & A+ Certifications</b> | Texarkana College</td>
-  </tr>
+<tr>
+  <td align="center"><strong>🎓 Education</strong></td>
+  <td>
+    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg)" width="16" /> 
+    <strong>B.S. Cybersecurity Technology</strong> | University of Maryland <b>(UMGC)</b><br />
+    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg)" width="16" /> 
+    <strong>Cisco & A+ Certifications</strong> | Texarkana College<br />
+    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg)" width="16" /> 
+    <strong>AWS Academy Cloud Architecting</strong> | AWS
+  </td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <tr>
     <td align="center"><b>🎯 Core Focus</b></td>
     <td>SOC Operations • Threat Hunting • Network Defense • Incident Response</td>
@@ -148,27 +178,7 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-
-
-
-
-
-...
-
-
-...
-
-
-
-
-
-
-
-
-
-
----
-
+<br>
 
 
 
@@ -203,8 +213,7 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-
-...
+<br>
 
 
 
@@ -275,6 +284,7 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
+<br>
 
 
 
@@ -282,116 +292,6 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---
 
 
 
@@ -440,15 +340,7 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-
-
-
-
-
-
-
-
-
+<br>
 
 
 
@@ -489,7 +381,8 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 * ☁️ **AWS Academy Cloud Architecting** | AWS
 
 
----
+<br>
+
 
 ## 🏠 Home Lab & Infrastructure
 
@@ -510,7 +403,7 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-...
+
 
 
 
