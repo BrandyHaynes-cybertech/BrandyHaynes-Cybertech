@@ -451,7 +451,118 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
+<table width="100%">
+  <tr>
+    <th colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=60&section=header&text=⚡%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=30&fontColor=ffffff" width="100%" />
+    </th>
+  </tr>
+  
+  <tr>
+    <td width="20%" align="center">
+      <br /><font size="7">🛡️</font><br /><b>Cyber Defense</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Security Operations & Incident Response</b></font><br /><br />
+      <img src="https://img.shields.io/badge/SOC_Role-2C3E50?style=for-the-badge&logo=securityscorecard&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Blue_Team-2C3E50?style=for-the-badge&logo=guardian&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Incident_Response-2C3E50?style=for-the-badge&logo=sensu&logoColor=white" height="35" />
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <br /><font size="7">🐧</font><br /><b>Systems</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Enterprise OS Administration & Active Directory</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="35" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <br /><font size="7">🌐</font><br /><b>Networking</b>
+    </td>
+    <td align="left">
+      <font size="4"><b>Packet Analysis & Network Traffic Monitoring</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Nmap-4DABCF?style=for-the-badge&logo=nmap&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Tcpdump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <br /><font size="7">⚔️</font><br /><b>Vulnerability</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Ethical Hacking & Vulnerability Research</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Metasploit-BF0000?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Exploitation-990000?style=for-the-badge&logo=kali-linux&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Vuln_Research-770000?style=for-the-badge&logo=target&logoColor=white" height="35" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <br /><font size="7">🔍</font><br /><b>Tooling</b>
+    </td>
+    <td align="left">
+      <font size="5"><b>Security Analysis & Cryptography</b></font><br /><br />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/Cryptography-444444?style=for-the-badge&logo=dependencycheck&logoColor=white" height="35" />&nbsp;
+      <img src="https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=linux&logoColor=white" height="35" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <details>
+        <summary align="center"><b>View Full Technical Lab List & Hands-On Details</b></summary>
+        <br />
+        <h4>🛡️ Cyber Defense & SOC Operations</h4>
+        <ul>
+          <li><b>SOC Role in Blue Team:</b> Understanding the workflow of a Security Operations Center.</li>
+          <li><b>Pre-Security Path:</b> Completed foundational training in networking, Linux, and Windows.</li>
+          <li><b>Defensive Security:</b> Introduction to incident response and digital forensics.</li>
+          <li><b>Cyber Kill Chain:</b> Analyzing the stages of a cyberattack to improve detection.</li>
+        </ul>
+        <h4>🐧 Systems & Infrastructure</h4>
+        <ul>
+          <li><b>Linux Fundamentals (1, 2, 3):</b> Mastered terminal navigation, permissions, and service management.</li>
+          <li><b>Windows Fundamentals (1, 2, 3):</b> Deep dive into the Windows OS, registry, and UAC.</li>
+          <li><b>Active Directory Basics:</b> Understanding domain controllers and network authentication.</li>
+          <li><b>Intro to Virtualization:</b> Configuration and management of virtual environments.</li>
+        </ul>
+        <h4>🌐 Network Security & Traffic Analysis</h4>
+        <ul>
+          <li><b>Wireshark & Tcpdump:</b> Hands-on packet capture and protocol analysis.</li>
+          <li><b>Nmap (The Basics & Live Room):</b> Network scanning, port discovery, and service fingerprinting.</li>
+          <li><b>Networking Essentials:</b> Mastered DNS, SMB, Telnet, and FTP secure configurations.</li>
+          <li><b>DNS in Detail:</b> In-depth study of the Domain Name System and its vulnerabilities.</li>
+        </ul>
+        <h4>⚔️ Vulnerability Research & Exploitation</h4>
+        <ul>
+          <li><b>Blue (EternalBlue):</b> Successfully exploited MS17-010 to understand critical OS flaws.</li>
+          <li><b>Ice (CVE-2014-4113):</b> Executed privilege escalation via memory corruption vulnerabilities.</li>
+          <li><b>Kenobi:</b> Exploited Samba for system enumeration and file system navigation.</li>
+          <li><b>Metasploit Suite:</b> Comprehensive use of the framework for exploitation and post-exploitation.</li>
+          <li><b>Vulnerability Research:</b> Identifying and analyzing CVEs for patch management.</li>
+        </ul>
+        <h4>🔍 Security Tooling & Cryptography</h4>
+        <ul>
+          <li><b>Burp Suite:</b> Foundational web proxy analysis for security testing.</li>
+          <li><b>John the Ripper:</b> Password cracking and cryptographic hash analysis.</li>
+          <li><b>Hashing Basics:</b> Understanding data integrity and one-way encryption.</li>
+          <li><b>Public Key Cryptography:</b> Implementing RSA and secure key exchange principles.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
 
 
