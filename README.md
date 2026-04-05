@@ -415,25 +415,6 @@
 
 
 
-<br>
-
-
-
-## ⚡ Professional IT Operations & Infrastructure Experience
-
-| Key Organization | Technical Implementation & Business Impact | Focus Area |
-| :--- | :--- | :--- |
-| **Wesco RV & Bus Inc.** | • **Data Forensic Reconstruction:** Restored database integrity by correcting multi-year discrepancies in QuickBooks. <br> • **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware to ensure **100% System Uptime**. <br> • **Technical Liaison:** Primary on-site contact for hardware/software troubleshooting and vendor escalations. | **Systems Admin** <br> **Data Integrity** |
-| **Acellus / Texas Lone Star Academy** | • **Environment Configuration:** Directed setup and maintenance of virtual learning environments. <br> • **Access Control:** Managed secure user login protocols, permission levels, and **Patch Management**. <br> • **System Uptime:** Utilized log analysis and monitoring to maintain **100% Reliability**. | **Network Ops** <br> **IAM / Support** |
-| **CMC Steel Arkansas** | • **Asset Management:** Configured and inventoried **20+ computer workstations** to ensure operational readiness. <br> • **Infrastructure Support:** Provided hands-on cable maintenance and hardware setup for plant operations. | **IT Support** <br> **Infrastructure** |
-
-
-
-
-<br>
-
-
-
 
 
 
@@ -442,16 +423,6 @@
 <br>
 
 
-
-
-
-## ⚡ Operational Reliability & Public Service Experience
-
-| Key Organization | Operational Impact & Core Responsibilities | Focus Area |
-| :--- | :--- | :--- |
-| **Shoe Dept. Encore** | • **System Operations:** Utilize proprietary Point of Sale (POS) systems for high-volume transaction processing and inventory accuracy. <br> • **Customer Resolution:** Manage real-time problem solving and conflict de-escalation in a fast-paced retail environment. | **POS Operations** <br> **Inventory Control** |
-| **Barry Telford Unit** | • **High-Stakes Oversight:** Maintained strict adherence to safety protocols and security discipline within a high-security correctional facility. <br> • **Incident Documentation:** Authored detailed reports and maintained precise logs regarding facility operations and security events. | **Public Safety** <br> **Crisis Management** |
-| **Wesco RV & Bus Inc.** | • **Logistics Management:** Managed complex scheduling and parts procurement for a multi-faceted repair operation. <br> • **Regulatory Compliance:** Handled warranty documentation and state-required record keeping with 100% accuracy. | **Administration** <br> **Compliance** |
 
 
 
@@ -469,29 +440,6 @@
 <br>
 
 
-
-
-
-
-
-
-
-
-## ⚡ Professional IT Operations & Infrastructure Experience
-
-| Key Organization | Technical Implementation & Business Impact | Focus Area |
-| :--- | :--- | :--- |
-| **Wesco RV & Bus Inc.** | • **Data Forensic Reconstruction:** Restored database integrity by correcting multi-year discrepancies in QuickBooks. <br> • **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware to ensure **100% System Uptime**. <br> • **Technical Liaison:** Primary on-site contact for hardware/software troubleshooting and vendor escalations. | **Systems Admin** <br> **Data Integrity** |
-| **Acellus / Texas Lone Star Academy** | • **Environment Configuration:** Directed setup and maintenance of virtual learning environments. <br> • **Access Control:** Managed secure user login protocols, permission levels, and **Patch Management**. <br> • **System Uptime:** Utilized log analysis and monitoring to maintain **100% Reliability**. | **Network Ops** <br> **IAM / Support** |
-| **CMC Steel Arkansas** | • **Asset Management:** Configured and inventoried **20+ computer workstations** to ensure operational readiness. <br> • **Infrastructure Support:** Provided hands-on cable maintenance and hardware setup for plant operations. | **IT Support** <br> **Infrastructure** |
-
-## ⚡ Operational Reliability & Public Service Experience
-
-| Key Organization | Operational Impact & Core Responsibilities | Focus Area |
-| :--- | :--- | :--- |
-| **Barry Telford Unit** | • **Conflict Resolution:** Managed real-time crisis de-escalation and maintained operational security within a high-pressure environment. <br> • **Logs & Compliance:** Authored precise incident reports and maintained rigorous activity logs in accordance with state regulatory compliance. <br> • **High-Stakes Oversight:** Executed disciplined safety protocols to ensure the integrity and security of the facility. | **Public Safety** <br> **Crisis Management** |
-| **Shoe Dept. Encore** | • **System Operations:** Utilize proprietary Point of Sale (POS) systems for high-volume transaction processing and inventory accuracy. <br> • **Customer Resolution:** Manage real-time problem solving and conflict de-escalation in a fast-paced retail environment. | **POS Operations** <br> **Inventory Control** |
-| **Wesco RV & Bus Inc.** | • **Logistics Management:** Managed complex scheduling and parts procurement for a multi-faceted repair operation. <br> • **Regulatory Compliance:** Handled warranty documentation and state-required record keeping with 100% accuracy. | **Administration** <br> **Compliance** |
 
 
 
@@ -526,13 +474,6 @@
 ## 🛠️ Professional IT Operatoins & Infastructure Experience
 *Strategic infrastructure and systems management across diverse environments.*
 
-### **Wesco RV & Bus Inc.** | *Systems & Data Specialist*
-> **Focus:** Systems Administration • Data Integrity • Network Administration
-* **Forensic Reconstruction:** Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.
-* **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware assets to maintain **100% system uptime**
-
-* **Technical Liaison:** Served as the primary on-site lead for hardware/software incident response and vendor escalation.
-
 
 ### **Wesco RV & Bus Inc.** | *Systems & Data Specialist*
 > **Focus:** Systems Administration • Data Integrity • Network Administration
@@ -546,18 +487,12 @@
 
 
 
-
-
-
-
-
 ### **Educational Systems & Operations** | *Technical Administrator*
 > **IT Soft Skills:** Home Network Management • Compliance Bookkeeping • Endpoint Security
 * **Infrastructure Management:** Provisioned and maintained a dedicated home network environment for **Texas Lone Star Academy** and **Acellus** curriculum, ensuring 100% uptime.
 * **Technical Support:** Acted as the primary on-site lead for hardware troubleshooting, ISP connectivity issues, and software updates to prevent downtime.
 * **Access Control & Safety:** Implemented user permissions and content filtering to maintain a secure, compliant digital learning space.
 * **Operational Bookkeeping:** Managed detailed records and progress logs required for academy compliance, ensuring all digital "paperwork" was accurate and submitted on schedule.
-
 
 
 
