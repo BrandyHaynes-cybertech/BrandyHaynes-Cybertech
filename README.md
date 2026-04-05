@@ -312,105 +312,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
 
@@ -495,6 +396,7 @@
   <br />
   <b><small><i>Reach out via email to schedule a call</i></small></b>
 </p>
+</table>
 
 
 
@@ -504,6 +406,7 @@
 
 
 
+<br>
 
 
 
@@ -512,6 +415,22 @@
 
 
 
+<br>
+
+
+
+## ⚡ Professional IT Operations & Infrastructure Experience
+
+| Key Organization | Technical Implementation & Business Impact | Focus Area |
+| :--- | :--- | :--- |
+| **Wesco RV & Bus Inc.** | • **Data Forensic Reconstruction:** Restored database integrity by correcting multi-year discrepancies in QuickBooks. <br> • **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware to ensure **100% System Uptime**. <br> • **Technical Liaison:** Primary on-site contact for hardware/software troubleshooting and vendor escalations. | **Systems Admin** <br> **Data Integrity** |
+| **Acellus / Texas Lone Star Academy** | • **Environment Configuration:** Directed setup and maintenance of virtual learning environments. <br> • **Access Control:** Managed secure user login protocols, permission levels, and **Patch Management**. <br> • **System Uptime:** Utilized log analysis and monitoring to maintain **100% Reliability**. | **Network Ops** <br> **IAM / Support** |
+| **CMC Steel Arkansas** | • **Asset Management:** Configured and inventoried **20+ computer workstations** to ensure operational readiness. <br> • **Infrastructure Support:** Provided hands-on cable maintenance and hardware setup for plant operations. | **IT Support** <br> **Infrastructure** |
+
+
+
+
+<br>
 
 
 
@@ -520,13 +439,19 @@
 
 
 
+<br>
 
 
 
 
 
+## ⚡ Operational Reliability & Public Service Experience
 
-
+| Key Organization | Operational Impact & Core Responsibilities | Focus Area |
+| :--- | :--- | :--- |
+| **Shoe Dept. Encore** | • **System Operations:** Utilize proprietary Point of Sale (POS) systems for high-volume transaction processing and inventory accuracy. <br> • **Customer Resolution:** Manage real-time problem solving and conflict de-escalation in a fast-paced retail environment. | **POS Operations** <br> **Inventory Control** |
+| **Barry Telford Unit** | • **High-Stakes Oversight:** Maintained strict adherence to safety protocols and security discipline within a high-security correctional facility. <br> • **Incident Documentation:** Authored detailed reports and maintained precise logs regarding facility operations and security events. | **Public Safety** <br> **Crisis Management** |
+| **Wesco RV & Bus Inc.** | • **Logistics Management:** Managed complex scheduling and parts procurement for a multi-faceted repair operation. <br> • **Regulatory Compliance:** Handled warranty documentation and state-required record keeping with 100% accuracy. | **Administration** <br> **Compliance** |
 
 
 
