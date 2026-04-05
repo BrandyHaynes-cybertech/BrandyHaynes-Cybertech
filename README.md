@@ -527,21 +527,49 @@
 *Strategic infrastructure and systems management across diverse environments.*
 
 ### **Wesco RV & Bus Inc.** | *Systems & Data Specialist*
-> **Focus:** Systems Administration • Data Integrity
+> **Focus:** Systems Administration • Data Integrity • Network Administration
 * **Forensic Reconstruction:** Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.
-* **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware assets to maintain **100% system uptime**.
+* **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware assets to maintain **100% system uptime**
+
 * **Technical Liaison:** Served as the primary on-site lead for hardware/software incident response and vendor escalation.
 
-### **Acellus / Texas Lone Star Academy** | *Network Operations*
-> **Focus:** IAM • Network Security
-* **Environment Configuration:** Directed the full-stack technical setup and maintenance of virtual learning environments.
-* **Access Control:** Managed secure user login protocols, permission levels, and critical patch management cycles.
-* **Performance Analytics:** Utilized log analysis and data tracking to achieve a **15% increase in operational efficiency**.
 
-### **CMC Steel Arkansas** | *Infrastructure Support*
-> **Focus:** IT Support • Asset Management
-* **Hardware Deployment:** Executed hardware setup and cabling for **20+ computer workstations** in an industrial environment.
-* **Asset Integrity:** Maintained precise inventory records for hardware assets and plant-wide technical deployments.
+### **Wesco RV & Bus Inc.** | *Systems & Data Specialist*
+> **Focus:** Systems Administration • Data Integrity • Network Administration
+* **Forensic Reconstruction:** Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.
+* **Network Audit & Optimization:** Mapped the existing infrastructure to identify and decommission redundant hardware, including "ghost" routers, to streamline network traffic.
+* **Infrastructure Cost-Reduction:** Orchestrated a complete migration of ISP and VOIP phone providers, securing more reliable service while significantly reducing monthly overhead.
+* **Technical Liaison:** Served as the primary on-site lead for hardware/software incident response and vendor escalation to maintain **100% system uptime**.
+
+
+
+
+
+
+
+
+
+
+
+### **Educational Systems & Operations** | *Technical Administrator*
+> **IT Soft Skills:** Home Network Management • Compliance Bookkeeping • Endpoint Security
+* **Infrastructure Management:** Provisioned and maintained a dedicated home network environment for **Texas Lone Star Academy** and **Acellus** curriculum, ensuring 100% uptime.
+* **Technical Support:** Acted as the primary on-site lead for hardware troubleshooting, ISP connectivity issues, and software updates to prevent downtime.
+* **Access Control & Safety:** Implemented user permissions and content filtering to maintain a secure, compliant digital learning space.
+* **Operational Bookkeeping:** Managed detailed records and progress logs required for academy compliance, ensuring all digital "paperwork" was accurate and submitted on schedule.
+
+
+
+
+### **CMC Steel Arkansas** | *Operations & Infrastructure Support* | *IT Intern*
+> **Focus:** Research • Asset Management • Hardware Deployment
+* **Infrastructure Lighting Project:** Researched and authored a comprehensive facility lighting upgrade proposal; the project was successfully implemented plant-wide to improve operational safety and efficiency.
+* **Workstation Deployment:** Executed hardware setup and cabling for **20+ computer workstations** in an industrial environment.
+
+
+
+
+
 
 ---
 
@@ -559,6 +587,43 @@
 
 
 <br>
+
+
+
+
+
+
+
+## 🛡️ Operational Reliability & Public Service Related to IT Soft Skills
+*Foundational soft skills in high-pressure environments, protocol adherence, and systems discipline.*
+
+### **Shoe Dept. Encore** | *Sales Associate*
+> **IT Soft Skills:** Customer Success • Troubleshooting • POS Integrity
+* **System Operations:** Daily use of proprietary Point of Sale (POS) systems, ensuring data accuracy and secure transaction handling.
+* **Technical Communication:** Translating complex transaction or inventory issues into clear solutions for customers, similar to **Help Desk / Tier 1 Support**.
+* **Real-Time Problem Solving:** Resolving system errors and hardware glitches during high-volume operations to maintain business continuity.
+
+### **Wesco RV & Bus Inc.** | *Office & Operations Manager*
+> **IT Soft Skills:** Vendor Liaison • Professional Accountability
+* **Operational Continuity:** Managed business-critical scheduling and parts procurement, ensuring all "system pieces" moved together.
+* **Regulatory Compliance:** Handled warranty documentation and state-required record keeping with 100% accuracy.
+
+### **Barry Telford Unit** | *Corrections Officer*
+> **IT Soft Skills:** Conflict De-escalation • Crisis Management • Technical Documentation
+* **Incident Reporting:** Authored precise, legally-defensible logs and incident reports, a direct precursor to **Cybersecurity Incident Documentation**.
+* **Protocol Adherence:** Maintained 100% compliance with strict state safety and security mandates, demonstrating the discipline required for **Security Policy Enforcement**.
+* **High-Pressure Resolution:** Managed real-time conflict resolution and situational awareness in a high-stakes environment.
+
+
+
+
+
+
+
+<br>
+
+
+
 
 
 
