@@ -456,3 +456,110 @@
 
 
 
+
+<br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+## ⚡ Professional IT Operations & Infrastructure Experience
+
+| Key Organization | Technical Implementation & Business Impact | Focus Area |
+| :--- | :--- | :--- |
+| **Wesco RV & Bus Inc.** | • **Data Forensic Reconstruction:** Restored database integrity by correcting multi-year discrepancies in QuickBooks. <br> • **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware to ensure **100% System Uptime**. <br> • **Technical Liaison:** Primary on-site contact for hardware/software troubleshooting and vendor escalations. | **Systems Admin** <br> **Data Integrity** |
+| **Acellus / Texas Lone Star Academy** | • **Environment Configuration:** Directed setup and maintenance of virtual learning environments. <br> • **Access Control:** Managed secure user login protocols, permission levels, and **Patch Management**. <br> • **System Uptime:** Utilized log analysis and monitoring to maintain **100% Reliability**. | **Network Ops** <br> **IAM / Support** |
+| **CMC Steel Arkansas** | • **Asset Management:** Configured and inventoried **20+ computer workstations** to ensure operational readiness. <br> • **Infrastructure Support:** Provided hands-on cable maintenance and hardware setup for plant operations. | **IT Support** <br> **Infrastructure** |
+
+## ⚡ Operational Reliability & Public Service Experience
+
+| Key Organization | Operational Impact & Core Responsibilities | Focus Area |
+| :--- | :--- | :--- |
+| **Barry Telford Unit** | • **Conflict Resolution:** Managed real-time crisis de-escalation and maintained operational security within a high-pressure environment. <br> • **Logs & Compliance:** Authored precise incident reports and maintained rigorous activity logs in accordance with state regulatory compliance. <br> • **High-Stakes Oversight:** Executed disciplined safety protocols to ensure the integrity and security of the facility. | **Public Safety** <br> **Crisis Management** |
+| **Shoe Dept. Encore** | • **System Operations:** Utilize proprietary Point of Sale (POS) systems for high-volume transaction processing and inventory accuracy. <br> • **Customer Resolution:** Manage real-time problem solving and conflict de-escalation in a fast-paced retail environment. | **POS Operations** <br> **Inventory Control** |
+| **Wesco RV & Bus Inc.** | • **Logistics Management:** Managed complex scheduling and parts procurement for a multi-faceted repair operation. <br> • **Regulatory Compliance:** Handled warranty documentation and state-required record keeping with 100% accuracy. | **Administration** <br> **Compliance** |
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+## 🛠️ Professional IT Operatoins & Infastructure Experience
+*Strategic infrastructure and systems management across diverse environments.*
+
+### **Wesco RV & Bus Inc.** | *Systems & Data Specialist*
+> **Focus:** Systems Administration • Data Integrity
+* **Forensic Reconstruction:** Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.
+* **Infrastructure Optimization:** Orchestrated ISP migrations and audited hardware assets to maintain **100% system uptime**.
+* **Technical Liaison:** Served as the primary on-site lead for hardware/software incident response and vendor escalation.
+
+### **Acellus / Texas Lone Star Academy** | *Network Operations*
+> **Focus:** IAM • Network Security
+* **Environment Configuration:** Directed the full-stack technical setup and maintenance of virtual learning environments.
+* **Access Control:** Managed secure user login protocols, permission levels, and critical patch management cycles.
+* **Performance Analytics:** Utilized log analysis and data tracking to achieve a **15% increase in operational efficiency**.
+
+### **CMC Steel Arkansas** | *Infrastructure Support*
+> **Focus:** IT Support • Asset Management
+* **Hardware Deployment:** Executed hardware setup and cabling for **20+ computer workstations** in an industrial environment.
+* **Asset Integrity:** Maintained precise inventory records for hardware assets and plant-wide technical deployments.
+
+---
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
