@@ -368,12 +368,6 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 <hr />
 
-<h2>🎓 Education & Credentials<h2>
-
-* 🎓 **B.S. in Cybersecurity Technology** | University of Maryland Global Campus
-* 📜 **One Year Certificate in CISCO** | Texarkana College
-* 📜 **One Year Certificate in A+ with Labs** | Texarkana College
-* ☁️ **AWS Academy Cloud Architecting** | AWS
 
 
 <br>
@@ -519,9 +513,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   </tr>
 
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <details>
-        <summary align="center"><b>View Full Technical Lab List & Hands-On Details</b></summary>
+<summary style="cursor: pointer; font-size: 1.2em; display: list-item;">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%96%20View%20Full%20Technical%20Lab%20List%20%26%20Hands--On%20Details%20-FFB300?style=for-the-badge&logoColor=black" height="45" />
+</summary>
+        <div align="left">
         <br />
         <h4>🛡️ Cyber Defense & SOC Operations</h4>
         <ul>
@@ -563,114 +560,6 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
