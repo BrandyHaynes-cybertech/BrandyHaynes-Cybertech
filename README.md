@@ -128,6 +128,11 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
+<br?
+
+
+
+
 
 
 
@@ -173,46 +178,6 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-<br>
-
-
-
-<table width="100%">
-  <tr>
-    <th colspan="4" align="center">
-     <img src="https://capsule-render.vercel.app/api?type=rect&color=069494&height=50&section=header&text=⚡%20Technical%20Projects%20%20Simulations%20⚡&fontSize=30&fontColor=ffffff" width="100%" />
-    </th>
-  </tr>
-<tr>
-<td align="center"><b>TryHackMe SOC L1</b></td>
-<td>Incident response & SIEM log analysis</td>
-<td align="center"><img src="https://img.shields.io/badge/Status-In--Progress-yellow" alt="In-Progress" /></td>
-<td align="center"><a href="https://tryhackme.com/p/B.Haynes">View</a></td>
-</tr>
-<tr>
-<td align="center"><b>Mastercard</b></td>
-<td>Phishing mitigation & data protection</td>
-<td align="center"><img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed" /></td>
-<td align="center"><a href="#">View</a></td>
-</tr>
-<tr>
-<td align="center"><b>Deloitte</b></td>
-<td>Data breach analysis & vulnerability risks</td>
-<td align="center"><img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed" /></td>
-<td align="center"><a href="#">View</a></td>
-</tr>
-</table>
-
-
-
-
-
-
-<br>
-
-
-
-
 
 
 <table width="100%">
@@ -222,11 +187,76 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
     </th>
   </tr>
   
-  <tr>
-    <td width="20%" align="center">
-      <br /><font size="7">🛡️</font><br /><b>Cyber Defense</b>
+<tr>
+    <td width="20%" align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🛡️</font><br /><b>Google</b>
+      </div>
     </td>
-    <td align="left">
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Google%20Specialized%20Training%20%26%20Technical%20Certificates%20-4285F4?style=for-the-badge&logo=google&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <h3>🔍 Google Cybersecurity Series (Verified Coursework)</h3>
+          <ul>
+            <li><b>Security Operations:</b> Detection & Response, SIEM (Splunk/Chronicle), Incident Response.</li>
+            <li><b>Network Defense:</b> Connect & Protect (TCP/IP, Firewalls, Network Security).</li>
+            <li><b>Risk Management:</b> Play It Safe (NIST Framework, Threat Modeling).</li>
+            <li><b>Technical Skills:</b> Linux Command Line and SQL (Tools of the Trade).</li>
+          </ul>
+          <br />
+          <h3>🛠️ Google IT Support Series</h3>
+          <ul>
+            <li><b>Technical Support Fundamentals:</b> System Troubleshooting & Customer Success.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+
+<tr>
+    <td width="20%" align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🏠</font><br /><b>Home Lab</b>
+      </div>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/-%F0%9F%8F%97%EF%B8%8F%20Home%20Lab%20Infrastructure%20%26%20DIY%20Engineering%20-A3C1AD?style=for-the-badge&logo=homeassistant&logoColor=black" height="45" />
+        </summary>
+        <br />
+        <blockquote style="border-left: 3px solid #A3C1AD; margin-left: 10px; padding-left: 15px;">
+          <h3 style="color: #6B8E23;">🏗️ Physical & Network Infrastructure</h3>
+          <ul>
+            <li><b>Custom Utility Routing:</b> Engineered and executed a 60-foot main sewer and PEX water line installation.</li>
+            <li><b>Strategic Planning:</b> Utilized custom tracking methods like reflective spray paint for precise utility mapping.</li>
+            <li><b>Hardware Integration:</b> Specialized in out-of-the-box problem-solving for complex physical constraints.</li>
+          </ul>
+          <h3 style="color: #6B8E23;">💻 Virtual & Technical Environment</h3>
+          <ul>
+            <li><b>Network Segmentation:</b> Configured secure zones for home-based technical projects.</li>
+            <li><b>Environment Management:</b> Hands-on experience with hardware troubleshooting and system add-ons.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+
+
+
+
+
+  <tr>
+    <td width="20%" align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🛡️</font><br /><b>Cyber Defense</b>
+      </div>
+    </td>
+    <td align="left" style="padding-left: 15px;">
       <font size="5"><b>Security Operations & Incident Response</b></font><br /><br />
       <img src="https://img.shields.io/badge/SOC_Role-2C3E50?style=for-the-badge&logo=securityscorecard&logoColor=white" height="35" />&nbsp;
       <img src="https://img.shields.io/badge/Blue_Team-2C3E50?style=for-the-badge&logo=guardian&logoColor=white" height="35" />&nbsp;
@@ -235,10 +265,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   </tr>
 
   <tr>
-    <td align="center">
-      <br /><font size="7">🐧</font><br /><b>Systems</b>
+    <td align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🐧</font><br /><b>Systems</b>
+      </div>
     </td>
-    <td align="left">
+    <td align="left" style="padding-left: 15px;">
       <font size="5"><b>Enterprise OS Administration & Active Directory</b></font><br /><br />
       <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" height="35" />&nbsp;
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" />&nbsp;
@@ -247,10 +279,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   </tr>
 
   <tr>
-    <td align="center">
-      <br /><font size="7">🌐</font><br /><b>Networking</b>
+    <td align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🌐</font><br /><b>Networking</b>
+      </div>
     </td>
-    <td align="left">
+    <td align="left" style="padding-left: 15px;">
       <font size="4"><b>Packet Analysis & Network Traffic Monitoring</b></font><br /><br />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />&nbsp;
       <img src="https://img.shields.io/badge/Nmap-4DABCF?style=for-the-badge&logo=nmap&logoColor=white" height="35" />&nbsp;
@@ -259,240 +293,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   </tr>
 
   <tr>
-    <td align="center">
-      <br /><font size="7">⚔️</font><br /><b>Vulnerability</b>
+    <td align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">⚔️</font><br /><b>Vulnerability</b>
+      </div>
     </td>
-    <td align="left">
-      <font size="5"><b>Ethical Hacking & Vulnerability Research</b></font><br /><br />
-      <img src="https://img.shields.io/badge/Metasploit-BF0000?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Exploitation-990000?style=for-the-badge&logo=kali-linux&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Vuln_Research-770000?style=for-the-badge&logo=target&logoColor=white" height="35" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-<details>
-<summary><h2>🛠️ TryHackMe: Technical Labs & Hands-On Skill Rooms Ext. </h2></summary>
-<br />
-
-#### 🛡️ Cyber Defense & SOC Operations
-* **SOC Role in Blue Team:** Understanding the workflow of a Security Operations Center.
-* **Pre-Security Path:** Completed foundational training in networking, Linux, and Windows.
-* **Defensive Security:** Introduction to incident response and digital forensics.
-* **Cyber Kill Chain:** Analyzing the stages of a cyberattack to improve detection.
-
-#### 🐧 Systems & Infrastructure
-* **Linux Fundamentals (1, 2, 3):** Mastered terminal navigation, permissions, and service management.
-* **Windows Fundamentals (1, 2, 3):** Deep dive into the Windows OS, registry, and UAC.
-* **Active Directory Basics:** Understanding domain controllers and network authentication.
-* **Intro to Virtualization:** Configuration and management of virtual environments.
-
-#### 🌐 Network Security & Traffic Analysis
-* **Wireshark & Tcpdump:** Hands-on packet capture and protocol analysis.
-* **Nmap (The Basics & Live Room):** Network scanning, port discovery, and service fingerprinting.
-* **Networking Essentials:** Mastered DNS, SMB, Telnet, and FTP secure configurations.
-* **DNS in Detail:** In-depth study of the Domain Name System and its vulnerabilities.
-
-#### ⚔️ Vulnerability Research & Exploitation
-* **Blue (EternalBlue):** Successfully exploited MS17-010 to understand critical OS flaws.
-* **Ice (CVE-2014-4113):** Executed privilege escalation via memory corruption vulnerabilities.
-* **Kenobi:** Exploited Samba for system enumeration and file system navigation.
-* **Metasploit Suite:** Comprehensive use of the framework for exploitation and post-exploitation.
-* **Vulnerability Research:** Identifying and analyzing CVEs for patch management.
-
-#### 🔍 Security Tooling & Cryptography
-* **Burp Suite:** Foundational web proxy analysis for security testing.
-* **John the Ripper:** Password cracking and cryptographic hash analysis.
-* **Hashing Basics:** Understanding data integrity and one-way encryption.
-* **Public Key Cryptography:** Implementing RSA and secure key exchange principles.
-
-</details>
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-<details>
-  <summary><h2>🛡️ Google Specialized Training & Technical Certifications</h2></summary>
-  <br />
-  <blockquote>
-    <h3>🔍 Google Cybersecurity Series (Verified Coursework)</h3>
-    <ul>
-      <li><b>Security Operations:</b> Detection & Response, SIEM (Splunk/Chronicle), Incident Response.</li>
-      <li><b>Network Defense:</b> Connect & Protect (TCP/IP, Firewalls, Network Security).</li>
-      <li><b>Risk Management:</b> Play It Safe (NIST Framework, Threat Modeling).</li>
-      <li><b>Technical Skills:</b> Linux Command Line and SQL (Tools of the Trade).</li>
-    </ul>
-    <br />
-    <h3>🛠️ Google IT Support Series</h3>
-    <ul>
-      <li><b>Technical Support Fundamentals:</b> System Troubleshooting & Customer Success.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<hr />
-
-
-
-<br>
-
-
-## 🏠 Home Lab & Infrastructure
-
-<details>
-  <summary>View Home Lab & Infrastructure Details</summary>
-  <br />
-  <ul>
-    <li><b>Network Management:</b> Configured and secured a multi-node eero mesh network with Arlo integration.</li>
-    <br />
-    <li><b>Systems Maintenance:</b> Ongoing hands-on troubleshooting of hardware and OS environments.</li>
-  </ul>
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table width="100%">
-  <tr>
-    <th colspan="2" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=4DB6AC&height=60&section=header&text=⚡%20Technical%20Labs%20and%20Skill%20Rooms%20⚡&fontSize=30&fontColor=ffffff" width="100%" />
-    </th>
-  </tr>
-  
-  <tr>
-    <td width="20%" align="center">
-      <br /><font size="7">🛡️</font><br /><b>Cyber Defense</b>
-    </td>
-    <td align="left">
-      <font size="5"><b>Security Operations & Incident Response</b></font><br /><br />
-      <img src="https://img.shields.io/badge/SOC_Role-2C3E50?style=for-the-badge&logo=securityscorecard&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Blue_Team-2C3E50?style=for-the-badge&logo=guardian&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Incident_Response-2C3E50?style=for-the-badge&logo=sensu&logoColor=white" height="35" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <br /><font size="7">🐧</font><br /><b>Systems</b>
-    </td>
-    <td align="left">
-      <font size="5"><b>Enterprise OS Administration & Active Directory</b></font><br /><br />
-      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="35" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <br /><font size="7">🌐</font><br /><b>Networking</b>
-    </td>
-    <td align="left">
-      <font size="4"><b>Packet Analysis & Network Traffic Monitoring</b></font><br /><br />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Nmap-4DABCF?style=for-the-badge&logo=nmap&logoColor=white" height="35" />&nbsp;
-      <img src="https://img.shields.io/badge/Tcpdump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <br /><font size="7">⚔️</font><br /><b>Vulnerability</b>
-    </td>
-    <td align="left">
+    <td align="left" style="padding-left: 15px;">
       <font size="5"><b>Ethical Hacking & Vulnerability Research</b></font><br /><br />
       <img src="https://img.shields.io/badge/Metasploit-BF0000?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />&nbsp;
       <img src="https://img.shields.io/badge/Exploitation-990000?style=for-the-badge&logo=kali-linux&logoColor=white" height="35" />&nbsp;
@@ -501,10 +307,12 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   </tr>
 
   <tr>
-    <td align="center">
-      <br /><font size="7">🔍</font><br /><b>Tooling</b>
+    <td align="center" style="background-color: #E9ECEF; padding: 0;">
+      <div style="background-color: #E9ECEF; width: 100%; height: 100%; padding: 20px 0;">
+        <font size="7">🔍</font><br /><b>Tooling</b>
+      </div>
     </td>
-    <td align="left">
+    <td align="left" style="padding-left: 15px;">
       <font size="5"><b>Security Analysis & Cryptography</b></font><br /><br />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="35" />&nbsp;
       <img src="https://img.shields.io/badge/Cryptography-444444?style=for-the-badge&logo=dependencycheck&logoColor=white" height="35" />&nbsp;
@@ -515,51 +323,70 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
   <tr>
     <td colspan="2" align="center">
       <details>
-<summary style="cursor: pointer; font-size: 1.2em; display: list-item;">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%96%20View%20Full%20Technical%20Lab%20List%20%26%20Hands--On%20Details%20-FFB300?style=for-the-badge&logoColor=black" height="45" />
-</summary>
+        <summary style="cursor: pointer; font-size: 1.2em; display: list-item;">
+          <img src="https://img.shields.io/badge/-%F0%9F%93%96%20View%20Full%20Technical%20Lab%20List%20%26%20Hands--On%20Details for TryHackMe%20-FFB300?style=for-the-badge&logoColor=black" height="45" />
+        </summary>
         <div align="left">
-        <br />
-        <h4>🛡️ Cyber Defense & SOC Operations</h4>
-        <ul>
-          <li><b>SOC Role in Blue Team:</b> Understanding the workflow of a Security Operations Center.</li>
-          <li><b>Pre-Security Path:</b> Completed foundational training in networking, Linux, and Windows.</li>
-          <li><b>Defensive Security:</b> Introduction to incident response and digital forensics.</li>
-          <li><b>Cyber Kill Chain:</b> Analyzing the stages of a cyberattack to improve detection.</li>
-        </ul>
-        <h4>🐧 Systems & Infrastructure</h4>
-        <ul>
-          <li><b>Linux Fundamentals (1, 2, 3):</b> Mastered terminal navigation, permissions, and service management.</li>
-          <li><b>Windows Fundamentals (1, 2, 3):</b> Deep dive into the Windows OS, registry, and UAC.</li>
-          <li><b>Active Directory Basics:</b> Understanding domain controllers and network authentication.</li>
-          <li><b>Intro to Virtualization:</b> Configuration and management of virtual environments.</li>
-        </ul>
-        <h4>🌐 Network Security & Traffic Analysis</h4>
-        <ul>
-          <li><b>Wireshark & Tcpdump:</b> Hands-on packet capture and protocol analysis.</li>
-          <li><b>Nmap (The Basics & Live Room):</b> Network scanning, port discovery, and service fingerprinting.</li>
-          <li><b>Networking Essentials:</b> Mastered DNS, SMB, Telnet, and FTP secure configurations.</li>
-          <li><b>DNS in Detail:</b> In-depth study of the Domain Name System and its vulnerabilities.</li>
-        </ul>
-        <h4>⚔️ Vulnerability Research & Exploitation</h4>
-        <ul>
-          <li><b>Blue (EternalBlue):</b> Successfully exploited MS17-010 to understand critical OS flaws.</li>
-          <li><b>Ice (CVE-2014-4113):</b> Executed privilege escalation via memory corruption vulnerabilities.</li>
-          <li><b>Kenobi:</b> Exploited Samba for system enumeration and file system navigation.</li>
-          <li><b>Metasploit Suite:</b> Comprehensive use of the framework for exploitation and post-exploitation.</li>
-          <li><b>Vulnerability Research:</b> Identifying and analyzing CVEs for patch management.</li>
-        </ul>
-        <h4>🔍 Security Tooling & Cryptography</h4>
-        <ul>
-          <li><b>Burp Suite:</b> Foundational web proxy analysis for security testing.</li>
-          <li><b>John the Ripper:</b> Password cracking and cryptographic hash analysis.</li>
-          <li><b>Hashing Basics:</b> Understanding data integrity and one-way encryption.</li>
-          <li><b>Public Key Cryptography:</b> Implementing RSA and secure key exchange principles.</li>
-        </ul>
+          <br />
+          <h4>🛡️ Cyber Defense & SOC Operations</h4>
+          <ul>
+            <li><b>SOC Role in Blue Team:</b> Understanding the workflow of a Security Operations Center.</li>
+            <li><b>Pre-Security Path:</b> Completed foundational training in networking, Linux, and Windows.</li>
+            <li><b>Defensive Security:</b> Introduction to incident response and digital forensics.</li>
+            <li><b>Cyber Kill Chain:</b> Analyzing the stages of a cyberattack to improve detection.</li>
+          </ul>
+          <h4>🐧 Systems & Infrastructure</h4>
+          <ul>
+            <li><b>Linux Fundamentals (1, 2, 3):</b> Mastered terminal navigation, permissions, and service management.</li>
+            <li><b>Windows Fundamentals (1, 2, 3):</b> Deep dive into the Windows OS, registry, and UAC.</li>
+            <li><b>Active Directory Basics:</b> Understanding domain controllers and network authentication.</li>
+            <li><b>Intro to Virtualization:</b> Configuration and management of virtual environments.</li>
+          </ul>
+          <h4>🌐 Network Security & Traffic Analysis</h4>
+          <ul>
+            <li><b>Wireshark & Tcpdump:</b> Hands-on packet capture and protocol analysis.</li>
+            <li><b>Nmap (The Basics & Live Room):</b> Network scanning, port discovery, and service fingerprinting.</li>
+            <li><b>Networking Essentials:</b> Mastered DNS, SMB, Telnet, and FTP secure configurations.</li>
+            <li><b>DNS in Detail:</b> In-depth study of the Domain Name System and its vulnerabilities.</li>
+          </ul>
+          <h4>⚔️ Vulnerability Research & Exploitation</h4>
+          <ul>
+            <li><b>Blue (EternalBlue):</b> Successfully exploited MS17-010 to understand critical OS flaws.</li>
+            <li><b>Ice (CVE-2014-4113):</b> Executed privilege escalation via memory corruption vulnerabilities.</li>
+            <li><b>Kenobi:</b> Exploited Samba for system enumeration and file system navigation.</li>
+            <li><b>Metasploit Suite:</b> Comprehensive use of the framework for exploitation and post-exploitation.</li>
+            <li><b>Vulnerability Research:</b> Identifying and analyzing CVEs for patch management.</li>
+          </ul>
+          <h4>🔍 Security Tooling & Cryptography</h4>
+          <ul>
+            <li><b>Burp Suite:</b> Foundational web proxy analysis for security testing.</li>
+            <li><b>John the Ripper:</b> Password cracking and cryptographic hash analysis.</li>
+            <li><b>Hashing Basics:</b> Understanding data integrity and one-way encryption.</li>
+            <li><b>Public Key Cryptography:</b> Implementing RSA and secure key exchange principles.</li>
+          </ul>
+        </div>
       </details>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
 
 
 
