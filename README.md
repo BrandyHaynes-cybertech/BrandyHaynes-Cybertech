@@ -389,6 +389,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 
@@ -417,6 +439,15 @@
     <b>🔗 Strategic Talent: Why a Pre-Vetted Apprentice is a Day-One Asset</b>
   </a>
 </p>
+
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bd09df62-e297-4155-851f-dd06cce0a72b" width="80%" alt="Business screenshot 2" style="max-width: 100%; height: auto; border-radius: 8px;" />
+</div>
+
+
+<br>
 
 <br />
 <div align="center">
@@ -464,66 +495,6 @@
   <br />
   <b><small><i>Reach out via email to schedule a call</i></small></b>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
