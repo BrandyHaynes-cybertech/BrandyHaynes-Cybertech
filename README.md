@@ -256,6 +256,40 @@
 
 
 
+<table width="100%" border="2" bordercolor="#8E44AD">
+  <tr>
+    <td style="padding: 20px; background-color: #ffffff;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-ACCEPTED_TO_OPENCLASSROOMS_APPRENTICESHIP-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
+      </p>
+      <h3 align="center">🤝 OpenClassrooms Apprenticeship Partnership</h3>
+      <p align="center">
+        I am officially admitted into the <b>Cybersecurity Analyst Apprenticeship</b> and am seeking an employer partner in the <b>Texarkana area</b> (or Remote) to sponsor my journey.
+      </p>
+      <hr />
+      <b style="color: #4DB6AC; font-size: 1.1em;">Why Partner with Me?</b>
+      <ul>
+        <li><b>Immediate Operational Value:</b> Leveraging my background at Wesco in network troubleshooting, vendor management, and data integrity.</li>
+        <li><b>Expert-Led Curriculum:</b> I follow a state-approved 12-24 month training path while working for you 4 days a week.</li>
+        <li><b>Seamless Onboarding:</b> OpenClassrooms handles the administrative heavy lifting of the apprenticeship program.</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=OpenClassrooms%20Apprenticeship%20Inquiry">
+          <img src="https://img.shields.io/badge/Contact_Brandy_Directly-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://openclassrooms.com/en/business/apprenticeship">
+          <img src="https://img.shields.io/badge/Discuss_with_OpenClassrooms-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 
@@ -498,6 +532,105 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="2" bordercolor="#8E44AD">
+  <tr>
+    <td style="padding: 50px; background-color: #ffffff;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-ACCEPTED_TO_OPENCLASSROOMS_APPRENTICESHIP-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
+      </p>
+      <h2 align="center">🤝 OpenClassrooms Apprenticeship Partnership</h2>
+      <p align="center">
+        I am officially admitted into the <b>Cybersecurity Analyst Apprenticeship</b> and am seeking an employer partner in the <b>Texarkana area</b> (or Remote) to sponsor my journey.
+      </p>
+      <hr />
+      <b style="color: #4DB6AC; font-size: 1.1em;">Why Partner with Me?</b>
+      <ul>
+        <li><b>Immediate Operational Value:</b> Leveraging my background at Wesco in network troubleshooting, vendor management, and data integrity.</li>
+        <li><b>Expert-Led Curriculum:</b> I follow a state-approved 12-24 month training path while working for you 4 days a week.</li>
+        <li><b>Seamless Onboarding:</b> OpenClassrooms handles the administrative heavy lifting of the apprenticeship program.</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=Apprenticeship%20Inquiry%20-%20Request%20to%20Connect">
+          <img src="https://img.shields.io/badge/Email_Brandy_Directly-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://openclassrooms.com/en/business/uplift">
+          <img src="https://img.shields.io/badge/Discuss_with_OpenClassrooms-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
+        </a>
+        <br />
+        <small><i>Reach out via email to schedule a call; I'm happy to discuss details over the phone.</i></small>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<table width="100%" border="2" bordercolor="#8E44AD">
+  <tr>
+    <td style="padding: 50px; background-color: #ffffff;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-ACCEPTED_TO_OPENCLASSROOMS_APPRENTICESHIP-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
+      </p>
+      <h2 align="center">🤝 Seeking OpenClassrooms Apprenticeship Partnership</h2>
+      <p align="center">
+        I am officially admitted into the <b>Cybersecurity Analyst Apprenticeship</b> and am seeking an employer partner in the <b>Texarkana area</b> (or Remote) to sponsor my journey.
+      </p>
+      <hr />
+      <b style="color: #4DB6AC; font-size: 1.1em;">Why Partner with Me?</b>
+      <ul>
+        <li><b>Immediate Operational Value:</b> Leveraging my background at Wesco in network troubleshooting, vendor management, and data integrity.</li>
+        <li><b>Expert-Led Curriculum:</b> I follow a state-approved 12-24 month training path while working for you 4 days a week.</li>
+        <li><b>Seamless Onboarding:</b> OpenClassrooms handles the administrative heavy lifting of the apprenticeship program.</li>
+      </ul>
+      <p align="center">
+        <a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=Apprenticeship%20Inquiry%20-%20Request%20to%20Connect">
+          <img src="https://img.shields.io/badge/Email_Brandy_Directly-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://openclassrooms.com/en/business/uplift">
+          <img src="https://img.shields.io/badge/Discuss_with_OpenClassrooms-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
+        </a>
+        <br />
+        <small><i>Reach out via email to schedule a call; I'm happy to discuss details over the phone.</i></small>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
