@@ -512,19 +512,6 @@
 
 
 
-<br>
-
-
-
-
-
-
-
-
-<br>
-
-
-
 
 
 
@@ -560,6 +547,122 @@
 
 
 
+
+
+
+
+
+
+
+
+<Table>
+
+
+
+
+
+</Table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+| 🛠️ Professional IT Operations & Infrastructure Experience |
+| :--- |
+
+| Organization | Technical Impact & Core Responsibilities | Focus Area |
+| :--- | :--- | :--- |
+| **Wesco RV & Bus Inc.** | • **Forensic Reconstruction:** Performed deep-tier QuickBooks data remediation to restore database integrity. <br> • **Network Optimization:** Mapped infrastructure and decommissioned redundant "ghost" routers to streamline traffic. <br> • **Cost-Reduction:** Orchestrated ISP/VOIP migrations, improving reliability while reducing monthly overhead. <br> • **Technical Liaison:** Lead for incident response and vendor escalation to maintain **100% uptime**. | **Systems Admin** <br> **Network Audit** |
+| **Educational Systems** | • **Infrastructure Management:** Provisioned a dedicated home network for **Texas Lone Star Academy/Acellus** curriculum. <br> • **Technical Support:** On-site lead for hardware troubleshooting, ISP issues, and software patch cycles. <br> • **Access Control:** Implemented user permissions and content filtering for a secure, compliant learning space. <br> • **Operational Bookkeeping:** Managed logs and digital records for academy compliance. | **Technical Admin** <br> **Endpoint Security** |
+| **CMC Steel Arkansas** | • **Infrastructure Project:** Researched and authored a facility lighting upgrade proposal successfully implemented plant-wide. <br> • **Workstation Deployment:** Executed hardware setup and cabling for **20+ workstations** in an industrial environment. <br> • **Asset Management:** Maintained precise inventory records for plant-wide technical deployments. | **Project Research** <br> **IT Support** |
+
+<br>
+
+| 🛡️ Operational Reliability & Public Service |
+| :--- |
+
+| Organization | IT Soft Skill Translation & Operational Impact | Focus Area |
+| :--- | :--- | :--- |
+| **Shoe Dept. Encore** | • **System Operations:** Daily use of proprietary POS systems for secure transaction handling. <br> • **Technical Communication:** Translating complex inventory/system issues into clear customer solutions. <br> • **Problem Solving:** Resolving hardware glitches during high-volume periods to maintain business continuity. | **Customer Success** <br> **Troubleshooting** |
+| **Wesco RV & Bus Inc.** | • **Operational Continuity:** Managed business-critical scheduling and parts procurement to ensure system synergy. <br> • **Regulatory Compliance:** Handled warranty documentation and state record-keeping with **100% accuracy**. | **Vendor Liaison** <br> **Accountability** |
+| **Barry Telford Unit** | • **Incident Reporting:** Authored precise, legally-defensible logs—a direct precursor to **Cybersecurity Documentation**. <br> • **Protocol Adherence:** Maintained 100% compliance with strict state mandates for **Security Policy Enforcement**. <br> • **Conflict Resolution:** Managed real-time crisis de-escalation and situational awareness in high-stakes environments. | **Crisis Management** <br> **Documentation** |
+
+
+
+
+
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
+  <tr>
+    <th colspan="3" bgcolor="#73b2a6" style="padding: 15px; color: #ffffff; font-size: 20px; border: 1px solid #d0d7de; text-align: center;">
+      🛠️ Professional IT Operations & Infrastructure Experience ⚡
+    </th>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <th width="22%" align="left" style="padding: 10px; border: 1px solid #d0d7de;">Key Organization</th>
+    <th width="58%" align="left" style="padding: 10px; border: 1px solid #d0d7de;">Technical Implementation & Business Impact</th>
+    <th width="20%" align="left" style="padding: 10px; border: 1px solid #d0d7de;">Focus Area</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;"><b>Wesco RV & Bus Inc.</b></td>
+    <td style="padding: 10px; border: 1px solid #d0d7de;">
+      • <b>Data Forensic Reconstruction:</b> Restored database integrity by correcting multi-year discrepancies in QuickBooks.<br>
+      • <b>Network Optimization:</b> Mapped infrastructure and decommissioned redundant "ghost" routers to streamline traffic.<br>
+      • <b>Cost-Reduction:</b> Orchestrated ISP/VOIP migrations, improving reliability while reducing monthly overhead.<br>
+      • <b>Technical Liaison:</b> Lead for hardware/software troubleshooting and vendor escalation.
+    </td>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;">Systems Admin<br>Data Integrity</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;"><b>Educational Systems</b></td>
+    <td style="padding: 10px; border: 1px solid #d0d7de;">
+      • <b>Infrastructure Management:</b> Provisioned a dedicated home network for <b>Texas Lone Star Academy/Acellus</b> curriculum.<br>
+      • <b>Technical Support:</b> On-site lead for hardware troubleshooting, ISP issues, and software patch cycles.<br>
+      • <b>Access Control:</b> Implemented user permissions and content filtering for a secure, compliant learning space.<br>
+      • <b>Operational Bookkeeping:</b> Managed logs and digital records for academy compliance.
+    </td>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;">Technical Admin<br>Endpoint Security</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;"><b>CMC Steel Arkansas</b></td>
+    <td style="padding: 10px; border: 1px solid #d0d7de;">
+      • <b>Infrastructure Project:</b> Researched and authored a facility lighting upgrade proposal successfully implemented plant-wide.<br>
+      • <b>Workstation Deployment:</b> Executed hardware setup and cabling for <b>20+ workstations</b> in an industrial environment.<br>
+      • <b>Asset Management:</b> Maintained precise inventory records for plant-wide technical deployments.
+    </td>
+    <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top;">Project Research<br>IT Support</td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
+  <tr>
+    <th colspan="3" bgcolor="#73b2a6" style="padding: 15px; color: #ffffff; font-size: 20px; border:
+
+
+
+
+
+
+<br>
+
+
+
+
+<br>
 
 
 
