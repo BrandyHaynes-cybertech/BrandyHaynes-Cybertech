@@ -11,7 +11,86 @@
 
 
 
+...
 
+
+<table width="100%" border="2" bordercolor="#8E44AD" cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding: 40px; background-color: #ffffff;">
+
+<h2 align="center">🤝 Cybersecurity Talent Partnership Opportunity</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CURRENT_STATUS-READY_FOR_ONBOARDING_IMMEDIATELY-27AE60?style=for-the-badge&logo=openclassrooms&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/APPRENTICESHIP_PROGRAM-OFFICIALLY_ACCEPTED_CYBER_ANALYST-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
+</p>
+
+<p align="center">
+Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the <b>OpenClassrooms</b> state-approved apprenticeship program.
+</p>
+<hr />
+
+<br />
+<p align="center"><b style="color: #4DB6AC; font-size: 1.4em;">Employer Value & ROI</b></p>
+<br />
+
+<div align="center">
+<table width="80%" border="0" cellspacing="10" cellpadding="0" style="table-layout: fixed;">
+  <tr>
+    <td width="50%" valign="top">
+      <b>💰 Financial Incentives</b><br />
+      <small>Access <b>$6,000+</b> in hiring grants & tax credits.</small>
+    </td>
+    <td width="50%" valign="top">
+      <b>🛠️ Tech Readiness</b><br />
+      <small>Trained in <b>SOC/SIEM</b> (TryHackMe/Forage certified).</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛡️ Data Integrity</b><br />
+      <small>Professional background at <b>Wesco</b> with security focus.</small>
+    </td>
+    <td width="50%" valign="top">
+      <b>📈 High Production</b><br />
+      <small><b>4 days a week</b> of work backed by cyber curriculum.</small>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <b>⚙️ Low Admin Lift</b><br />
+      <small>OpenClassrooms handles all <b>compliance & mentorship</b>.</small>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br />
+<hr />
+<br />
+
+<p align="center">
+<a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=Apprenticeship%20Partnership%20Inquiry">
+<img src="https://img.shields.io/badge/Request_Candidate_Briefing-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://openclassrooms.com/en/business/uplift">
+<img src="https://img.shields.io/badge/View_Employer_Benefits-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
+</a>
+<br />
+<br />
+<small><i>Reach out via email to schedule a call.</i></small>
+</p>
+</td>
+</tr>
+</table>
+
+
+
+
+...
 
 <table width="100%">
   <tr>
@@ -74,6 +153,12 @@
 
 
 
+...
+
+
+...
+
+
 
 
 
@@ -84,14 +169,7 @@
 
 ---
 
-<h2>🛠️ Technical Stack<h2>
-  
-![SIEM](https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
-![Network](https://img.shields.io/badge/Network-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#
 
 
 <table width="100%">
@@ -126,12 +204,7 @@
 
 
 
-</table>
-
-<br /><br />
-
-<table width="100%">
-
+...
 
 
 
@@ -251,40 +324,6 @@
 
 
 
-
-
-
-
-
-<table width="100%" border="2" bordercolor="#8E44AD">
-  <tr>
-    <td style="padding: 20px; background-color: #ffffff;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-ACCEPTED_TO_OPENCLASSROOMS_APPRENTICESHIP-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
-      </p>
-      <h3 align="center">🤝 OpenClassrooms Apprenticeship Partnership</h3>
-      <p align="center">
-        I am officially admitted into the <b>Cybersecurity Analyst Apprenticeship</b> and am seeking an employer partner in the <b>Texarkana area</b> (or Remote) to sponsor my journey.
-      </p>
-      <hr />
-      <b style="color: #4DB6AC; font-size: 1.1em;">Why Partner with Me?</b>
-      <ul>
-        <li><b>Immediate Operational Value:</b> Leveraging my background at Wesco in network troubleshooting, vendor management, and data integrity.</li>
-        <li><b>Expert-Led Curriculum:</b> I follow a state-approved 12-24 month training path while working for you 4 days a week.</li>
-        <li><b>Seamless Onboarding:</b> OpenClassrooms handles the administrative heavy lifting of the apprenticeship program.</li>
-      </ul>
-      <p align="center">
-        <a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=OpenClassrooms%20Apprenticeship%20Inquiry">
-          <img src="https://img.shields.io/badge/Contact_Brandy_Directly-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://openclassrooms.com/en/business/apprenticeship">
-          <img src="https://img.shields.io/badge/Discuss_with_OpenClassrooms-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -481,7 +520,6 @@
 
 
 
-<img width="1323" height="916" alt="image" src="https://github.com/user-attachments/assets/fb8f7b00-e0ff-43bd-b7f6-a75f3f4dd73d" />
 
 
 
@@ -502,83 +540,17 @@
 
 
 
-...
 
 
 
 
-<table width="100%" border="2" bordercolor="#8E44AD" cellspacing="0" cellpadding="0">
-<tr>
-<td style="padding: 40px; background-color: #ffffff;">
 
-<h2 align="center">🤝 Cybersecurity Talent Partnership Opportunity</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/CURRENT_STATUS-READY_FOR_ONBOARDING_IMMEDIATELY-27AE60?style=for-the-badge&logo=openclassrooms&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/APPRENTICESHIP_PROGRAM-OFFICIALLY_ACCEPTED_CYBER_ANALYST-FFD700?style=for-the-badge&logo=openclassrooms&logoColor=black" />
-</p>
 
-<p align="center">
-Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the <b>OpenClassrooms</b> state-approved apprenticeship program.
-</p>
-<hr />
 
-<br />
-<p align="center"><b style="color: #4DB6AC; font-size: 1.4em;">Employer Value & ROI</b></p>
-<br />
 
-<div align="center">
-<table width="80%" border="0" cellspacing="10" cellpadding="0" style="table-layout: fixed;">
-  <tr>
-    <td width="50%" valign="top">
-      <b>💰 Financial Incentives</b><br />
-      <small>Access <b>$6,000+</b> in hiring grants & tax credits.</small>
-    </td>
-    <td width="50%" valign="top">
-      <b>🛠️ Tech Readiness</b><br />
-      <small>Trained in <b>SOC/SIEM</b> (TryHackMe/Forage certified).</small>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🛡️ Data Integrity</b><br />
-      <small>Professional background at <b>Wesco</b> with security focus.</small>
-    </td>
-    <td width="50%" valign="top">
-      <b>📈 High Production</b><br />
-      <small><b>4 days a week</b> of work backed by cyber curriculum.</small>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br />
-      <b>⚙️ Low Admin Lift</b><br />
-      <small>OpenClassrooms handles all <b>compliance & mentorship</b>.</small>
-    </td>
-  </tr>
-</table>
-</div>
 
-<br />
-<hr />
-<br />
 
-<p align="center">
-<a href="mailto:brandy.w.haynes.cybertech@gmail.com?subject=Apprenticeship%20Partnership%20Inquiry">
-<img src="https://img.shields.io/badge/Request_Candidate_Briefing-27AE60?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://openclassrooms.com/en/business/uplift">
-<img src="https://img.shields.io/badge/View_Employer_Benefits-0078D4?style=for-the-badge&logo=openclassrooms&logoColor=white" />
-</a>
-<br />
-<br />
-<small><i>Reach out via email to schedule a call.</i></small>
-</p>
-</td>
-</tr>
-</table>
 
 
 
@@ -644,43 +616,6 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
 
 
 
