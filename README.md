@@ -115,16 +115,11 @@ Onboard a pre-vetted <b>Cybersecurity Analyst</b> (Texarkana/Remote) through the
 <tr>
   <td align="center"><strong>🎓 Education</strong></td>
   <td>
-    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg)" width="16" /> 
-    <strong>B.S. Cybersecurity Technology</strong> | University of Maryland <b>(UMGC)</b><br />
-    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg)" width="16" /> 
-    <strong>Cisco & A+ Certifications</strong> | Texarkana College<br />
-    <img src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg)" width="16" /> 
-    <strong>AWS Academy Cloud Architecting</strong> | AWS
+    🔹 <strong>B.S. Cybersecurity Technology</strong> | University of Maryland <b>(UMGC)</b><br />
+    🔹 <strong>Cisco & A+ Certifications</strong> | Texarkana College<br />
+    🔹 <strong>AWS Academy Cloud Architecting</strong> | AWS
   </td>
 </tr>
-
-
 
 
 
