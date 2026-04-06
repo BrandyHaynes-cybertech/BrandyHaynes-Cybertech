@@ -531,10 +531,9 @@
             <li><b>Rooms Completed:</b> Linux Fundamentals 1-3 • Windows Fundamentals 1-3 • Active Directory • Metasploit Suite • Wireshark • Nmap • Tcpdump • John the Ripper • CVE-2024-21413 • SOC Blue Team and more</li>
           </ul>
           <a href="https://github.com/BrandyHaynes-cybertech/TryHackMe-Hands-On-Training">📁 View Repository</a>
-          &nbsp;|&nbsp;
+          &nbsp;
          
-      </details>
-    </td>
+  
   </tr>
 </table>
 
