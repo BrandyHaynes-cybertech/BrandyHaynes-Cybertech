@@ -414,6 +414,33 @@
       </details>
     </td>
   </tr>
+<tr>
+    <td width="20%" align="center">
+      <font size="7">📋</font><br /><b>Security Management Briefings</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/CMIT_425_%7C_UMGC-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> RACI Matrix • Cryptography • VPN Protocols • Access Controls • Security Auditing • Physical Security • Secure SDLC
+          <ul>
+            <li><b>Briefing 2:</b> RACI Matrix & Organizational Security Roles</li>
+            <li><b>Briefing 3:</b> Cryptography — Symmetric vs Asymmetric Encryption</li>
+            <li><b>Briefing 4:</b> VPN Protocols for Remote Work Security</li>
+            <li><b>Briefing 5:</b> Access Controls & Insider Threat Mitigation</li>
+            <li><b>Briefing 6:</b> Remote Work Device Security Audit</li>
+            <li><b>Briefing 7:</b> Physical Security for Unoccupied Facilities</li>
+            <li><b>Briefing 8:</b> Software Development Security & CMMI Level 3</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/Security-Management-Briefings-UMGC">📁 View Repository</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  
 </table>
 
 
