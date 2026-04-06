@@ -285,6 +285,181 @@
 
 
 
+<br>
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="center">
+<img src="https://img.shields.io/badge/%20%F0%9F%94%90%20Applied%20Cybersecurity%20%26%20IT%20Projects%20%F0%9F%94%90-922B21?style=for-the-badge&logoColor=white" height="75" width="100%" />    </th>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🔬</font><br /><b>Digital Forensics</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/CCJS_321_%7C_UMGC-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> Digital Evidence • Search Warrants • Legal Doctrines • Cloud Forensics • IoT Evidence • Ethics • Emerging Threats
+          <ul>
+            <li><b>Assignment 1:</b> Digital Evidence, Search Warrants & Legal Doctrines</li>
+            <li><b>Assignment 3:</b> Ethics, Cloud Forensics, IoT Evidence & Emerging Threats</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/Digital-Forensics-UMGC">📁 View Repository</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">☁️</font><br /><b>Cloud Computing & AWS</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/CMIT_326_%7C_UMGC-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> AWS VPC Architecture • EC2 Deployment • Network Security • Cloud Vendor Analysis • Infrastructure Cost Reduction
+          <ul>
+            <li><b>Assignment 1:</b> Executive Summary — Cloud Migration Strategy</li>
+            <li><b>Assignment 2:</b> Cloud Vendor Presentation — AWS vs Azure vs GCP</li>
+            <li><b>Assignment 3:</b> Proof of Concept — Built a VPC & Launched an EC2 Web Server on AWS</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/Cloud-Computing-UMGC">📁 View Repository</a>
+          &nbsp;|&nbsp;
+          <a href="https://www.credly.com/badges/fb7e9e17-20e6-470e-879c-b934673e3392">✅ AWS Academy Verified Badge</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -490,6 +665,53 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
