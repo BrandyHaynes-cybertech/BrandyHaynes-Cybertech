@@ -15,11 +15,6 @@
 
 
 
-<br>
-
-
-
-
 
 
 <table width="100%">
@@ -51,7 +46,7 @@
 <br>
 
 
-
+<br>
 
 
 
@@ -96,7 +91,7 @@
 
 <br>
 
-
+<br>
 
 
 
@@ -294,7 +289,7 @@
 
 
 
-
+<br>
 
 
 <br>
@@ -398,7 +393,7 @@
 
 
 
-
+<br>
 
 
 
@@ -537,7 +532,7 @@
 
 
 
-
+<br>
 
 
 
@@ -577,6 +572,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bd09df62-e297-4155-851f-dd06cce0a72b" width="80%" alt="Business screenshot 2" style="max-width: 100%; height: auto; border-radius: 8px;" />
 </div>
+
+
+
+
 
 
 <br>
