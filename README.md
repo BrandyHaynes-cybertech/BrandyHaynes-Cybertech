@@ -37,24 +37,6 @@
 </tr>
 
 
-
-
-
-
-
-
-<br>
-
-
-<br>
-
-
-
-
-
-
-
-
   <tr>
     <td align="center"><b>🎯 Core Focus</b></td>
     <td>SOC Operations • Threat Hunting • Network Defense • Incident Response</td>
@@ -90,6 +72,237 @@
 
 
 <br>
+
+<br>
+
+
+
+
+
+<br>
+
+
+<br>
+
+
+
+
+
+
+
+
+
+<table width="100%">
+ <tr>
+    <th colspan="2" align="center">
+     <img src="https://img.shields.io/badge/%20%F0%9F%92%BC%F0%9F%92%BCProfessional%20IT%20Operations%20%26%20Infrastructure%20Experience%20%F0%9F%92%BC💼-154360?style=for-the-badge&logoColor=white" height="75" width="100%" />
+    </th>
+  <tr height="30">
+    <td colspan="2" align="center">
+      <i><b>Strategic infrastructure and systems management across diverse environments.</i>
+    </td>
+  </tr>
+    <td width="20%" align="center">
+      <font size="7">🏢</font><br /><b>Wesco RV & Bus Inc.</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Systems_%26_Data_Specialist-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Focus:</b> Systems Administration • Data Integrity • Network Administration
+          <ul>
+            <li><b>Forensic Reconstruction:</b> Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.</li>
+            <li><b>Network Audit & Optimization:</b> Mapped the existing infrastructure to identify and decommission redundant hardware, including "ghost" routers, to streamline network traffic.</li>
+            <li><b>Infrastructure Cost-Reduction:</b> Orchestrated a complete migration of ISP and VOIP phone providers, securing more reliable service while significantly reducing monthly overhead.</li>
+            <li><b>Technical Liaison:</b> Served as the primary on-site lead for hardware/software incident response and vendor escalation to maintain <b>100% system uptime</b>.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🏫</font><br /><b>Educational Systems & Operations</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Technical_Administrator-4DB6AC?style=for-the-badge&logoColor=black" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>IT Soft Skills:</b> Home Network Management • Compliance Bookkeeping • Endpoint Security
+          <ul>
+            <li><b>Infrastructure Management:</b> Provisioned and maintained a dedicated home network environment for <b>Texas Lone Star Academy</b> and <b>Acellus</b> curriculum, ensuring 100% uptime.</li>
+            <li><b>Technical Support:</b> Acted as the primary on-site lead for hardware troubleshooting, ISP connectivity issues, and software updates to prevent downtime.</li>
+            <li><b>Access Control & Safety:</b> Implemented user permissions and content filtering to maintain a secure, compliant digital learning space.</li>
+            <li><b>Operational Bookkeeping:</b> Managed detailed records and progress logs required for academy compliance, ensuring all digital "paperwork" was accurate and submitted on schedule.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🏭</font><br /><b>CMC Steel Arkansas</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/IT_Intern_%7C_Operations_%26_Infrastructure-546E7A?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Focus:</b> Research • Asset Management • Hardware Deployment
+          <ul>
+            <li><b>Infrastructure Lighting Project:</b> Researched and authored a comprehensive facility lighting upgrade proposal; the project was successfully implemented plant-wide to improve operational safety and efficiency.</li>
+            <li><b>Workstation Deployment:</b> Executed hardware setup and cabling for <b>20+ computer workstations</b> in an industrial environment.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+<table width="100%">
+ <tr>
+    <th colspan="2" align="center">
+   <img src="https://img.shields.io/badge/%20%F0%9F%9B%A1%EF%B8%8F%20Operational%20Reliability%20%26%20Public%20Service%20%7C%20IT%20Soft%20Skills%20%F0%9F%9B%A1%EF%B8%8F-154360?style=for-the-badge&logoColor=white" height="75" width="100%" />
+    </th>
+  <tr height="30">
+    <td colspan="2" align="center">
+      <i><b>Foundational soft skills in high-pressure environments, protocol adherence, and systems discipline.</b></i>
+    </td>
+  </tr>
+    <td width="20%" align="center">
+      <font size="7">🏫</font><br /><b>Educational Systems & Operations</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Technical_Administrator_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>IT Soft Skills:</b> End-User Training • Documentation & Reporting • Remote Troubleshooting • Curriculum Platform Management
+          <ul>
+            <li><b>End-User Training:</b> Provided hands-on technical instruction and support to students navigating digital learning platforms, directly mirroring <b>Help Desk / Tier 1 Support</b> responsibilities.</li>
+            <li><b>Documentation & Reporting:</b> Maintained detailed compliance records and progress logs, ensuring all digital "paperwork" was accurate and submitted on schedule.</li>
+            <li><b>Remote Troubleshooting:</b> Independently resolved ISP connectivity issues, hardware failures, and software errors with no external IT support.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">👟</font><br /><b>Shoe Dept. Encore</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Sales_Associate_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>IT Soft Skills:</b> Customer Success • Troubleshooting • POS Integrity
+          <ul>
+            <li><b>System Operations:</b> Daily use of proprietary Point of Sale (POS) systems, ensuring data accuracy and secure transaction handling.</li>
+            <li><b>Technical Communication:</b> Translated complex transaction or inventory issues into clear solutions for customers, similar to <b>Help Desk / Tier 1 Support</b>.</li>
+            <li><b>Real-Time Problem Solving:</b> Resolved system errors and hardware glitches during high-volume operations to maintain business continuity.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🏢</font><br /><b>Wesco RV & Bus Inc.</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Office_%26_Operations_Manager_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>IT Soft Skills:</b> Vendor Liaison • Professional Accountability
+          <ul>
+            <li><b>Operational Continuity:</b> Managed business-critical scheduling and parts procurement, ensuring all "system pieces" moved together.</li>
+            <li><b>Regulatory Compliance:</b> Handled warranty documentation and state-required record keeping with 100% accuracy.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">⚖️</font><br /><b>Barry Telford Unit</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Corrections_Officer_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>IT Soft Skills:</b> Conflict De-escalation • Crisis Management • Technical Documentation
+          <ul>
+            <li><b>Incident Reporting:</b> Authored precise, legally-defensible logs and incident reports — a direct precursor to <b>Cybersecurity Incident Documentation</b>.</li>
+            <li><b>Protocol Adherence:</b> Maintained 100% compliance with strict state safety and security mandates, demonstrating the discipline required for <b>Security Policy Enforcement</b>.</li>
+            <li><b>High-Pressure Resolution:</b> Managed real-time conflict resolution and situational awareness in a high-stakes environment.</li>
+          </ul>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
 
 <br>
 
@@ -284,231 +497,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-<br>
-
-
-<br>
-
-
-
-
-
-
-
-
-
-<table width="100%">
- <tr>
-    <th colspan="2" align="center">
-      <img src="https://img.shields.io/badge/%20%F0%9F%92%BC%F0%9F%92%BCProfessional%20IT%20Operations%20%26%20Infrastructure%20Experience%20%F0%9F%92%BC💼-8DDCDC?style=for-the-badge&logoColor=white" height="75" width="100%" />
-    </th>
-  <tr height="30">
-    <td colspan="2" align="center">
-      <i><b>Strategic infrastructure and systems management across diverse environments.</i>
-    </td>
-  </tr>
-    <td width="20%" align="center">
-      <font size="7">🏢</font><br /><b>Wesco RV & Bus Inc.</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Systems_%26_Data_Specialist-006064?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>Focus:</b> Systems Administration • Data Integrity • Network Administration
-          <ul>
-            <li><b>Forensic Reconstruction:</b> Performed deep-tier QuickBooks data remediation to correct multi-year discrepancies and restore database integrity.</li>
-            <li><b>Network Audit & Optimization:</b> Mapped the existing infrastructure to identify and decommission redundant hardware, including "ghost" routers, to streamline network traffic.</li>
-            <li><b>Infrastructure Cost-Reduction:</b> Orchestrated a complete migration of ISP and VOIP phone providers, securing more reliable service while significantly reducing monthly overhead.</li>
-            <li><b>Technical Liaison:</b> Served as the primary on-site lead for hardware/software incident response and vendor escalation to maintain <b>100% system uptime</b>.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <font size="7">🏫</font><br /><b>Educational Systems & Operations</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Technical_Administrator-4DB6AC?style=for-the-badge&logoColor=black" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>IT Soft Skills:</b> Home Network Management • Compliance Bookkeeping • Endpoint Security
-          <ul>
-            <li><b>Infrastructure Management:</b> Provisioned and maintained a dedicated home network environment for <b>Texas Lone Star Academy</b> and <b>Acellus</b> curriculum, ensuring 100% uptime.</li>
-            <li><b>Technical Support:</b> Acted as the primary on-site lead for hardware troubleshooting, ISP connectivity issues, and software updates to prevent downtime.</li>
-            <li><b>Access Control & Safety:</b> Implemented user permissions and content filtering to maintain a secure, compliant digital learning space.</li>
-            <li><b>Operational Bookkeeping:</b> Managed detailed records and progress logs required for academy compliance, ensuring all digital "paperwork" was accurate and submitted on schedule.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <font size="7">🏭</font><br /><b>CMC Steel Arkansas</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/IT_Intern_%7C_Operations_%26_Infrastructure-546E7A?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>Focus:</b> Research • Asset Management • Hardware Deployment
-          <ul>
-            <li><b>Infrastructure Lighting Project:</b> Researched and authored a comprehensive facility lighting upgrade proposal; the project was successfully implemented plant-wide to improve operational safety and efficiency.</li>
-            <li><b>Workstation Deployment:</b> Executed hardware setup and cabling for <b>20+ computer workstations</b> in an industrial environment.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-<br>
-
-
-<table width="100%">
- <tr>
-    <th colspan="2" align="center">
-      <img src="https://img.shields.io/badge/%20%F0%9F%9B%A1%EF%B8%8F%20Operational%20Reliability%20%26%20Public%20Service%20%7C%20IT%20Soft%20Skills%20%F0%9F%9B%A1%EF%B8%8F-8DDCDC?style=for-the-badge&logoColor=white" height="75" width="100%" />
-    </th>
-  <tr height="30">
-    <td colspan="2" align="center">
-      <i><b>Foundational soft skills in high-pressure environments, protocol adherence, and systems discipline.</b></i>
-    </td>
-  </tr>
-    <td width="20%" align="center">
-      <font size="7">🏫</font><br /><b>Educational Systems & Operations</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Technical_Administrator_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>IT Soft Skills:</b> End-User Training • Documentation & Reporting • Remote Troubleshooting • Curriculum Platform Management
-          <ul>
-            <li><b>End-User Training:</b> Provided hands-on technical instruction and support to students navigating digital learning platforms, directly mirroring <b>Help Desk / Tier 1 Support</b> responsibilities.</li>
-            <li><b>Documentation & Reporting:</b> Maintained detailed compliance records and progress logs, ensuring all digital "paperwork" was accurate and submitted on schedule.</li>
-            <li><b>Remote Troubleshooting:</b> Independently resolved ISP connectivity issues, hardware failures, and software errors with no external IT support.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <font size="7">👟</font><br /><b>Shoe Dept. Encore</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Sales_Associate_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>IT Soft Skills:</b> Customer Success • Troubleshooting • POS Integrity
-          <ul>
-            <li><b>System Operations:</b> Daily use of proprietary Point of Sale (POS) systems, ensuring data accuracy and secure transaction handling.</li>
-            <li><b>Technical Communication:</b> Translated complex transaction or inventory issues into clear solutions for customers, similar to <b>Help Desk / Tier 1 Support</b>.</li>
-            <li><b>Real-Time Problem Solving:</b> Resolved system errors and hardware glitches during high-volume operations to maintain business continuity.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <font size="7">🏢</font><br /><b>Wesco RV & Bus Inc.</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Office_%26_Operations_Manager_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>IT Soft Skills:</b> Vendor Liaison • Professional Accountability
-          <ul>
-            <li><b>Operational Continuity:</b> Managed business-critical scheduling and parts procurement, ensuring all "system pieces" moved together.</li>
-            <li><b>Regulatory Compliance:</b> Handled warranty documentation and state-required record keeping with 100% accuracy.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <font size="7">⚖️</font><br /><b>Barry Telford Unit</b>
-    </td>
-    <td align="left" style="padding-left: 15px;">
-      <details open>
-        <summary style="cursor: pointer; list-style: none;">
-          <img src="https://img.shields.io/badge/Corrections_Officer_%7C_IT_Soft_Skills-006064?style=for-the-badge&logoColor=white" height="45" />
-        </summary>
-        <br />
-        <blockquote>
-          <b>IT Soft Skills:</b> Conflict De-escalation • Crisis Management • Technical Documentation
-          <ul>
-            <li><b>Incident Reporting:</b> Authored precise, legally-defensible logs and incident reports — a direct precursor to <b>Cybersecurity Incident Documentation</b>.</li>
-            <li><b>Protocol Adherence:</b> Maintained 100% compliance with strict state safety and security mandates, demonstrating the discipline required for <b>Security Policy Enforcement</b>.</li>
-            <li><b>High-Pressure Resolution:</b> Managed real-time conflict resolution and situational awareness in a high-stakes environment.</li>
-          </ul>
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
 
 
 
