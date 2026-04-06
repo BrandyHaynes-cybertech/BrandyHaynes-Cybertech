@@ -35,8 +35,6 @@
     🔹 <strong>AWS Academy Cloud Architecting</strong> | AWS
   </td>
 </tr>
-
-
   <tr>
     <td align="center"><b>🎯 Core Focus</b></td>
     <td>SOC Operations • Threat Hunting • Network Defense • Incident Response</td>
@@ -69,6 +67,28 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br>
@@ -304,10 +324,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table width="100%">
   <tr>
     <th colspan="2" align="center">
-<img src="https://img.shields.io/badge/%20%F0%9F%94%90%20Applied%20Cybersecurity%20%26%20IT%20Projects%20%F0%9F%94%90-922B21?style=for-the-badge&logoColor=white" height="75" width="100%" />    </th>
+      <img src="https://img.shields.io/badge/%20%F0%9F%94%90%20Applied%20Cybersecurity%20%26%20IT%20Projects%20%F0%9F%94%90-922B21?style=for-the-badge&logoColor=white" height="75" width="100%" />
+    </th>
   </tr>
   <tr>
     <td width="20%" align="center">
@@ -354,7 +390,32 @@
       </details>
     </td>
   </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🏥</font><br /><b>Healthcare Cybersecurity</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/CMIT_320_%7C_UMGC-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> IoMT CVE Research • Physical Security Planning • HIPAA/PII/PHI Compliance • Hospital Security Architecture
+          <ul>
+            <li><b>Project 1:</b> IoMT Vulnerability Memo — CVE analysis on 3 medical devices</li>
+            <li><b>Project 2:</b> Physical Security Plan — camera placement, access control & staff training</li>
+            <li><b>Project 3:</b> HIPAA, PII & PHI Employee Training Presentation</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/Healthcare-Cybersecurity-Network-Security-UMGC">📁 View Repository</a>
+          &nbsp;|&nbsp;
+          <b>CompTIA Security+ Practice Score: 96%</b>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
 </table>
+
 
 
 
@@ -859,8 +920,6 @@
 
 
 <br>
-
-
 
 
 
