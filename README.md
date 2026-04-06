@@ -532,8 +532,7 @@
           </ul>
           <a href="https://github.com/BrandyHaynes-cybertech/TryHackMe-Hands-On-Training">📁 View Repository</a>
           &nbsp;|&nbsp;
-          <a href="[https://tryhackme.com/p/B.Haynes](https://tryhackme.com/p/brandy.w.haynes.cybertech)">✅ TryHackMe Profile</a>
-        </blockquote>
+         
       </details>
     </td>
   </tr>
