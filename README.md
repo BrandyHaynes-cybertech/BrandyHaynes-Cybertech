@@ -472,7 +472,72 @@
     </td>
   </tr>
 
-
+<tr>
+    <td width="20%" align="center">
+      <font size="7">🏠</font><br /><b>Home Network Projects</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/SOHO_Network_%7C_26%2B_Devices_%7C_Real_Case_Studies-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> Home Network Troubleshooting • MAC Addressing & DHCP • IoT Device Setup • Network Segmentation • Parental Controls • Mesh Network Configuration
+          <ul>
+            <li><b>Case Study 01:</b> Amazon Kids Tablet — Wi-Fi & Server Connection Fix — MAC randomization, device profiles, DHCP</li>
+            <li><b>Case Study 02:</b> Arlo Camera Setup, Troubleshooting & Network Expansion — IoT isolation, mesh expansion, network congestion</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/home-network-projects-setup-troubleshooting">📁 View Repository</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🎯</font><br /><b>Forage Job Simulations</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/Mastercard_%26_Deloitte_%7C_Forage-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> Phishing Analysis • Incident Response • Log Analysis • Threat Identification • Remediation Planning
+          <ul>
+            <li><b>Mastercard:</b> Designed phishing email simulations — analyzed suspicious emails and implemented security protocols to prevent credential theft</li>
+            <li><b>Deloitte:</b> Supported client through active cyber breach — analyzed web activity logs, identified data breach patterns, and developed remediation strategies</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/Forage-Job-Simulations">📁 View Repository</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <font size="7">🖥️</font><br /><b>TryHackMe Hands-On Training</b>
+    </td>
+    <td align="left" style="padding-left: 15px;">
+      <details open>
+        <summary style="cursor: pointer; list-style: none;">
+          <img src="https://img.shields.io/badge/33_Rooms_Completed_%7C_TryHackMe-006064?style=for-the-badge&logoColor=white" height="45" />
+        </summary>
+        <br />
+        <blockquote>
+          <b>Topics:</b> Linux & Windows Administration • Networking • Metasploit • Wireshark • Nmap • Cryptography • SOC Operations • Offensive & Defensive Security
+          <ul>
+            <li><b>Badges Earned:</b> 🐧 cat linux.txt — Linux competency | 🛡️ Metasploitable — Metasploit knowledge</li>
+            <li><b>Rooms Completed:</b> Linux Fundamentals 1-3 • Windows Fundamentals 1-3 • Active Directory • Metasploit Suite • Wireshark • Nmap • Tcpdump • John the Ripper • CVE-2024-21413 • SOC Blue Team and more</li>
+          </ul>
+          <a href="https://github.com/BrandyHaynes-cybertech/TryHackMe-Hands-On-Training">📁 View Repository</a>
+          &nbsp;|&nbsp;
+          <a href="https://tryhackme.com/p/B.Haynes">✅ TryHackMe Profile</a>
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
 
 
 
