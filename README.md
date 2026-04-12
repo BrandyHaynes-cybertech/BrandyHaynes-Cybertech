@@ -363,7 +363,7 @@
           <li><b>Trophy 2:</b> Explore Microsoft 365 Administration — All Assessments Passed</li>
           <li><b>8 Badges Completed</b> — All Module Assessments Passed — April 2026</li>
         </ul>
-        <a href="https://github.com/BrandyHaynes-cybertech/Microsoft365-Administration-Portfolio">📁 View Repository</a>
+       <a href="https://github.com/BrandyHaynes-cybertech/Microsoft-365-Administration-Portfolio">📁 View Repository</a>
         &nbsp;|&nbsp;
         <a href="https://learn.microsoft.com/en-us/users/brandyhaynes/">🎓 View Microsoft Learn Profile</a>
       </blockquote>
