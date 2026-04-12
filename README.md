@@ -345,6 +345,34 @@
       <img src="https://img.shields.io/badge/%20%F0%9F%94%90%20Applied%20Cybersecurity%20%26%20IT%20Projects%20%F0%9F%94%90-922B21?style=for-the-badge&logoColor=white" height="75" width="100%" />
     </th>
   </tr>
+
+<tr>
+  <td width="20%" align="center">
+    <font size="7">🖥️</font><br /><b>Microsoft 365 Administration Portfolio</b>
+  </td>
+  <td align="left" style="padding-left: 15px;">
+    <details open>
+      <summary style="cursor: pointer; list-style: none;">
+        <img src="https://img.shields.io/badge/Microsoft_365_%7C_Active_Training_%7C_April_2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="45" />
+      </summary>
+      <br />
+      <blockquote>
+        <b>Topics:</b> Microsoft 365 Administration • M365 Security • Endpoint Management • Device & Cloud Management • Collaboration Solutions • Productivity Solutions • Data Governance
+        <ul>
+          <li><b>Trophy 1:</b> MS-900 Introduction to Microsoft 365: Describe Microsoft 365 Apps and Services — All Assessments Passed</li>
+          <li><b>Trophy 2:</b> Explore Microsoft 365 Administration — All Assessments Passed</li>
+          <li><b>8 Badges Completed</b> — All Module Assessments Passed — April 2026</li>
+        </ul>
+        <a href="https://github.com/BrandyHaynes-cybertech/Microsoft365-Administration-Portfolio">📁 View Repository</a>
+        &nbsp;|&nbsp;
+        <a href="https://learn.microsoft.com/en-us/users/brandyhaynes/">🎓 View Microsoft Learn Profile</a>
+      </blockquote>
+    </details>
+  </td>
+</tr>
+
+
+  
   <tr>
     <td width="20%" align="center">
       <font size="7">🔬</font><br /><b>Digital Forensics</b>
